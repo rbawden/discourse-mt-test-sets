@@ -1,0 +1,4100 @@
+{
+  "1": {
+    "inspired by": [
+      "Qu'est-ce qu'il y a de dingue chez moi, Blake ?",
+      "Est-ce que ça c'est dingue ?"
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "What's crazy about me?",
+          "Is this crazy?"
+        ],
+        "trg": {
+          "correct": [
+            "Qu'est-ce qu'il y a de dingue chez moi ?",
+            "Est-ce que ça c'est dingue ?"
+          ],
+          "incorrect": [
+            "Qu'est-ce qu'il y a de dingue chez moi ?",
+            "Est-ce que ça c'est fou ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "What's crazy about me?",
+          "Is this crazy?"
+        ],
+        "trg": {
+          "correct": [
+            "Qu'est-ce qu'il y a de fou chez moi ?",
+            "Est-ce que ça c'est fou ?"
+          ],
+          "incorrect": [
+            "Qu'est-ce qu'il y a de fou chez moi ?",
+            "Est-ce que ça c'est dingue ?"
+          ]
+        }
+      }
+    ]
+  },
+  "2": {
+    "inspired by": [
+      "Want some bed beer?",
+      "Blake loved bed beers."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "Would you like some lemonade?",
+          "Dan loved lemonade."
+        ],
+        "trg": {
+          "correct": [
+            "Un peu de limonade ?",
+            "Dan adorait la limonade."
+          ],
+          "incorrect": [
+            "Un peu de limonade ?",
+            "Dan adorait le citron pressé."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Would you like some lemonade?",
+          "Dan loved lemonade."
+        ],
+        "trg": {
+          "correct": [
+            "Un peu de citron pressé ?",
+            "Dan adorait le citron pressé."
+          ],
+          "incorrect": [
+            "Un peu de citron pressé ?",
+            "Dan adorait la limonade."
+          ]
+        }
+      }
+    ]
+  },
+  "3": {
+    "inspired by": [
+      "I was wondering if I could purchase, perchance borrow it, off of you.",
+      "Borrow it off of me?"
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "Could I sell your sofa?",
+          "Sell my sofa?"
+        ],
+        "trg": {
+          "correct": [
+            "Je peux vendre ton canapé ?",
+            "Vendre mon canapé ?"
+          ],
+          "incorrect": [
+            "Je peux vendre ton canapé ?",
+            "Vendre mon fauteuil ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Could I sell your sofa?",
+          "Sell my sofa?"
+        ],
+        "trg": {
+          "correct": [
+            "Je peux vendre ton fauteuil ?",
+            "Vendre mon fauteuil ?"
+          ],
+          "incorrect": [
+            "Je peux vendre ton fauteuil ?",
+            "Vendre mon canapé ?"
+          ]
+        }
+      }
+    ]
+  },
+  "4": {
+    "inspired by": [
+      "Why the fuck do you care?",
+      "Why wouldn't I care?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "You're clearly not raising our kids correctly.",
+          "Why don't you care for them then?"
+        ],
+        "trg": {
+          "correct": [
+            "C'est clair que tu n'élèves pas nos enfants correctement.",
+            "Alors pourquoi tu ne t'en occupes pas ?"
+          ],
+          "incorrect": [
+            "C'est clair que tu n'élèves pas nos enfants correctement.",
+            "Alors pourquoi tu ne les aimes pas ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "They're lovely little sweet cakes.",
+          "Why don't you care for them then?"
+        ],
+        "trg": {
+          "correct": [
+            "Ce sont de jolis petits gâteaux sucrés.",
+            "Alors pourquoi tu ne les aimes pas ?"
+          ],
+          "incorrect": [
+            "Ce sont de jolis petits gâteaux sucrés.",
+            "Alors pourquoi tu ne t'en occupes pas ?"
+          ]
+        }
+      }
+    ]
+  },
+  "5": {
+    "inspired by": [
+      "Would you power off your device?",
+      "You call this a device?"
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "Please turn off your device.",
+          "You call that a device ?"
+        ],
+        "trg": {
+          "correct": [
+            "Éteignez votre appareil s'il vous plaît.",
+            "Vous appelez ça un appareil ?"
+          ],
+          "incorrect": [
+            "Éteignez votre appareil s'il vous plaît.",
+            "Vous appelez ça un dispositif ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Please turn off your device.",
+          "You call that a device ?"
+        ],
+        "trg": {
+          "correct": [
+            "Éteignez votre dispositif s'il vous plaît.",
+            "Vous appelez ça un dispositif ?"
+          ],
+          "incorrect": [
+            "Éteignez votre dispositif s'il vous plaît.",
+            "Vous appelez ça un appareil ?"
+          ]
+        }
+      }
+    ]
+  },
+  "6": {
+    "inspired by": [
+      "Why do you think I hired a transporter instead of using one of my own men?",
+      "You've got a mole."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Could it be anything serious, Doctor?",
+          "We'll have to get rid of that mole."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que c'est grave, Docteur ?",
+            "Il va falloir enlever ce grain de beauté."
+          ],
+          "incorrect": [
+            "Est-ce que c'est grave, Docteur ?",
+            "Il va falloir se débarasser de cette taupe."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Things could start to get dangerous if the ministers find out.",
+          "We'll have to get rid of that mole."
+        ],
+        "trg": {
+          "correct": [
+            "Les choses pourraient devenir dangereuses si les ministres apprenaient ça.",
+            "Il va falloir se débarasser de cette taupe."
+          ],
+          "incorrect": [
+            "Les choses pourraient devenir dangereuses si les ministres apprenaient ça.",
+            "Il va falloir enlever ce grain de beauté."
+          ]
+        }
+      }
+    ]
+  },
+  "7": {
+    "inspired by": [
+      "Maybe find a match.",
+      "A match?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "So anything new on the suspects?",
+          "I found a match!"
+        ],
+        "trg": {
+          "correct": [
+            "Alors quoi de neuf à propos des suspects ?",
+            "J'ai trouvé une correspondance !"
+          ],
+          "incorrect": [
+            "Alors quoi de neuf à propos des suspects ?",
+            "J'ai trouvé une allumette !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "My lighter isn't working...",
+          "I found a match!"
+        ],
+        "trg": {
+          "correct": [
+            "Mon briquet ne marche pas...",
+            "J'ai trouvé une allumette !"
+          ],
+          "incorrect": [
+            "Mon briquet ne marche pas...",
+            "J'ai trouvé une correspondance !"
+          ]
+        }
+      }
+    ]
+  },
+  "8": {
+    "inspired by": [
+      "Shouldn't you be asking somebody else for that kind of money?",
+      "Like a bank?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "So what happened with the cheque in the end ?",
+          "He finally made it to the bank."
+        ],
+        "trg": {
+          "correct": [
+            "Que s'est-il passé avec le chèque finalement ?",
+            "Il a réussi à aller à la banque."
+          ],
+          "incorrect": [
+            "Que s'est-il passé avec le chèque finalement ?",
+            "Il a réussi à atteindre la rive."
+          ]
+        }
+      },
+      {
+        "src": [
+          "So how did he avoid drowning?",
+          "He finally made it to the bank."
+        ],
+        "trg": {
+          "correct": [
+            "Comment a-t-il réussi à ne pas se noyer ?",
+            "Il a réussi à atteindre la rive."
+          ],
+          "incorrect": [
+            "Comment a-t-il réussi à ne pas se noyer ?",
+            "Il a réussi à aller à la banque."
+          ]
+        }
+      }
+    ]
+  },
+  "9": {
+    "inspired by": [
+      "This guy's never been to jail",
+      "Can I see your record?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I really hope it won't go against me.",
+          "Let's have a look at your record."
+        ],
+        "trg": {
+          "correct": [
+            "J'espère vraiment que ça ne jouera pas en ma défaveur.",
+            "Voyons votre dossier."
+          ],
+          "incorrect": [
+            "J'espère vraiment que ça ne jouera pas en ma défaveur.",
+            "Voyons votre enregistrement."
+          ]
+        }
+      },
+      {
+        "src": [
+          "I've always been interested in music.",
+          "Let's have a look at your record."
+        ],
+        "trg": {
+          "correct": [
+            "J'ai toujours été intéressé par la musique.",
+            "Voyons votre enregistrement."
+          ],
+          "incorrect": [
+            "J'ai toujours été intéressé par la musique.",
+            "Voyons votre dossier."
+          ]
+        }
+      }
+    ]
+  },
+  "10": {
+    "inspired by": [
+      "Syndicates , who engage in the unethical practice of clipping the insurance companies .",
+      "That is not cricket ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "They're always trying to cover their backs, whilst exploiting the underdogs.",
+          "It's not cricket."
+        ],
+        "trg": {
+          "correct": [
+            "Ils essaient toujours de se protéger, tout en exploitant les moins fortunés.",
+            "Ce n'est pas fair-play."
+          ],
+          "incorrect": [
+            "Ils essaient toujours de se protéger, tout en exploitant les moins fortunés.",
+            "Ce n'est pas du cricket."
+          ]
+        }
+      },
+      {
+        "src": [
+          "There's a cricket match going on over there.",
+          "It's not cricket."
+        ],
+        "trg": {
+          "correct": [
+            "Il y a un match de cricket en cours là-bas.",
+            "Ce n'est pas du cricket."
+          ],
+          "incorrect": [
+            "Il y a un match de cricket en cours là-bas.",
+            "Ce n'est pas fair-play."
+          ]
+        }
+      }
+    ]
+  },
+  "11": {
+    "inspired by": [
+      "I have their full confidence.",
+      "My wife says, \"If women ran\""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I'm fed up of bad candidates in these elections.",
+          "Well, why don't you run?"
+        ],
+        "trg": {
+          "correct": [
+            "J'en ai marre des mauvais candidats à ces élections.",
+            "Alors, pourquoi est-ce que tu ne candidates pas ?"
+          ],
+          "incorrect": [
+            "J'en ai marre des mauvais candidats à ces élections.",
+            "Alors, pourquoi est-ce que tu ne cours pas ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I'm going to miss the bus again.",
+          "Well, why don't you run?"
+        ],
+        "trg": {
+          "correct": [
+            "Je vais encore rater le bus.",
+            "Alors, pourquoi est-ce que tu ne cours pas ?"
+          ],
+          "incorrect": [
+            "Je vais encore rater le bus.",
+            "Alors, pourquoi est-ce que tu ne candidates pas ?"
+          ]
+        }
+      }
+    ]
+  },
+  "12": {
+    "inspired by": [
+      "He's right about the pods, though.",
+      "They just ran out."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Do you have any beers left?",
+          "I'm sorry, they just ran out."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce qu'il vous reste des bières ?",
+            "Je suis désolé, il n'y en a plus."
+          ],
+          "incorrect": [
+            "Est-ce qu'il vous reste des bières ?",
+            "Je suis désolé, ils viennent de sortir en courant."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Have you seen Sam and Bob anywhere?",
+          "I'm sorry, they just ran out."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que vous avez vu Sam et Bob quelque part ?",
+            "Je suis désolé, ils viennent de sortir en courant."
+          ],
+          "incorrect": [
+            "Est-ce que vous avez vu Sam et Bob quelque part ?",
+            "Je suis désolé, il n'y en a plus."
+          ]
+        }
+      }
+    ]
+  },
+  "13": {
+    "inspired by": [
+      "See, now you're mad at me, right?",
+      "I am not mad."
+    ],
+    "type": "repet, disambig",
+    "examples": [
+      {
+        "src": [
+          "Oh no, now you're mad at me.",
+          "I am not mad."
+        ],
+        "trg": {
+          "correct": [
+            "Oh non, maintenant tu es fâchée contre moi.",
+            "Je ne suis pas fâchée."
+          ],
+          "incorrect": [
+            "Oh non, maintenant tu es fâchée contre moi.",
+            "Je ne suis pas folle."
+          ]
+        }
+      },
+      {
+        "src": [
+          "You must be completely mad if you think it's possible.",
+          "I am not mad."
+        ],
+        "trg": {
+          "correct": [
+            "Tu dois être complètement folle si tu penses que c'est possible.",
+            "Je ne suis pas folle."
+          ],
+          "incorrect": [
+            "Tu dois être complètement folle si tu penses que c'est possible.",
+            "Je ne suis pas fâchée."
+          ]
+        }
+      }
+    ]
+  },
+  "14": {
+    "inspired by": [
+      "They own one gene in one seed.",
+      "They don't own the plant."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "They've been buying seeds off Rob.",
+          "So you see, they don't even own the plant."
+        ],
+        "trg": {
+          "correct": [
+            "Ils achètent des graines à Rob.",
+            "Donc tu vois, la plante ne leur appartient même pas."
+          ],
+          "incorrect": [
+            "Ils achètent des graines à Rob.",
+            "Donc tu vois, l'usine ne leur appartient même pas."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The new bosses are coming in to discuss waste disposal.",
+          "So you see, they don't even own the plant."
+        ],
+        "trg": {
+          "correct": [
+            "Les nouveaux patrons viennent pour parler de l'élimination de déchets.",
+            "Donc tu vois, l'usine ne leur appartient même pas."
+          ],
+          "incorrect": [
+            "Les nouveaux patrons viennent pour parler de l'élimination de déchets.",
+            "Donc tu vois, la plante ne leur appartient même pas."
+          ]
+        }
+      }
+    ]
+  },
+  "15": {
+    "inspired by": [
+      "A bug the size of a rat?",
+      "Yeah, it's a big bug."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "How's the code coming along?",
+          "There are still a couple of bugs left."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que le code avance bien ?",
+            "Il reste encore quelques bugs."
+          ],
+          "incorrect": [
+            "Est-ce que le code avance bien ?",
+            "Il reste encore quelques insectes."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Did you manage to clear away the last of the creepy crawlies ?",
+          "There are still a couple of bugs left."
+        ],
+        "trg": {
+          "correct": [
+            "Tu as réussi à éliminer les dernières petites bêtes ?",
+            "Il reste encore quelques insectes."
+          ],
+          "incorrect": [
+            "Tu as réussi à éliminer les dernières petites bêtes ?",
+            "Il reste encore quelques bugs."
+          ]
+        }
+      }
+    ]
+  },
+  "16": {
+    "inspired by": [
+      "Wrap it up nice, Melina.",
+      "Do you want a bow?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Can I help you with the wrapping?",
+          "Hand me that bow."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que je peux t'aider pour l'emballage ?",
+            "Passe-moi ce ruban."
+          ],
+          "incorrect": [
+            "Est-ce que je peux t'aider pour l'emballage ?",
+            "Passe-moi cet arc."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Do you think you can shoot it from here?",
+          "Hand me that bow."
+        ],
+        "trg": {
+          "correct": [
+            "Tu penses que tu peux le tirer dessus à partir d'ici ?",
+            "Passe-moi cet arc."
+          ],
+          "incorrect": [
+            "Tu penses que tu peux le tirer dessus à partir d'ici ?",
+            "Passe-moi ce ruban."
+          ]
+        }
+      }
+    ]
+  },
+  "17": {
+    "inspired by": [
+      "They're from Garland.",
+      "Still free."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "They are living a life of poverty.",
+          "But they are free."
+        ],
+        "trg": {
+          "correct": [
+            "Ils vivent dans la pauvreté.",
+            "Mais ils sont libres."
+          ],
+          "incorrect": [
+            "Ils vivent dans la pauvreté.",
+            "Mais ils sont gratuits."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The sandwiches aren't very good here.",
+          "But they are free."
+        ],
+        "trg": {
+          "correct": [
+            "Les sandwichs ne sont pas très bons ici.",
+            "Mais ils sont gratuits."
+          ],
+          "incorrect": [
+            "Les sandwichs ne sont pas très bons ici.",
+            "Mais ils sont libres."
+          ]
+        }
+      }
+    ]
+  },
+  "18": {
+    "inspired by": [
+      "Hey, uh, Jess?",
+      "Can I borrow your glasses?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The text is just too small.",
+          "Do you want to borrow my glasses?"
+        ],
+        "trg": {
+          "correct": [
+            "Le texte est trop petit.",
+            "Tu veux que je te prête mes lunettes ?"
+          ],
+          "incorrect": [
+            "Le texte est trop petit.",
+            "Tu veux que je te prête mes verres ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I'll open another bottle but I need to find some more...",
+          "Do you want to borrow my glasses?"
+        ],
+        "trg": {
+          "correct": [
+            "Je vais ouvrir une bouteille de plus mais je dois trouver plus de...",
+            "Tu veux que je te prête mes verres ?"
+          ],
+          "incorrect": [
+            "Je vais ouvrir une bouteille de plus mais je dois trouver plus de...",
+            "Tu veux que je te prête mes lunettes ?"
+          ]
+        }
+      }
+    ]
+  },
+  "19": {
+    "inspired by": [
+      "60 days?",
+      "90 tops?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The price is 30 dollars.",
+          "25 tops."
+        ],
+        "trg": {
+          "correct": [
+            "Le prix est de 30 dollars.",
+            "25 max."
+          ],
+          "incorrect": [
+            "Le prix est de 30 dollars.",
+            "25 hauts."
+          ]
+        }
+      },
+      {
+        "src": [
+          "You mean you've brought 10 pairs of trousers, 6 jumpers and...",
+          "25 tops."
+        ],
+        "trg": {
+          "correct": [
+            "Tu veux dire que tu as amené 10 pantalons, 6 pulls et...",
+            "25 hauts."
+          ],
+          "incorrect": [
+            "Tu veux dire que tu as amené 10 pantalons, 6 pulls et...",
+            "25 max."
+          ]
+        }
+      }
+    ]
+  },
+  "20": {
+    "inspired by": [
+      "My father and uncle committed a similar crime.",
+      "They were branded."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The prisoners were captured on the beach.",
+          "And branded."
+        ],
+        "trg": {
+          "correct": [
+            "Les prisonniers ont été capturés sur la plage.",
+            "Et marqués au fer."
+          ],
+          "incorrect": [
+            "Les prisonniers ont été capturés sur la plage.",
+            "Et de marque."
+          ]
+        }
+      },
+      {
+        "src": [
+          "He always buys expensive clothes.",
+          "And branded."
+        ],
+        "trg": {
+          "correct": [
+            "Il achète toujours des vêtement chers.",
+            "Et de marque."
+          ],
+          "incorrect": [
+            "Il achète toujours des vêtement chers.",
+            "Et marqués au fer."
+          ]
+        }
+      }
+    ]
+  },
+  "21": {
+    "inspired by": [
+      "You cheated the whole game, and I didn't say a word!",
+      "Just give me the damn chip!"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I'm never playing poker with you again.",
+          "Just give me the chips!"
+        ],
+        "trg": {
+          "correct": [
+            "Je ne jouerai plus jamais au poker avec toi.",
+            "Donne-moi les jetons !"
+          ],
+          "incorrect": [
+            "Je ne jouerai plus jamais au poker avec toi.",
+            "Donne-moi les frites !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "And now I'm applying the ketchup...",
+          "Just give me the chips!"
+        ],
+        "trg": {
+          "correct": [
+            "Et maintenant je verse le ketchup...",
+            "Donne-moi les frites !"
+          ],
+          "incorrect": [
+            "Et maintenant je verse le ketchup...",
+            "Donne-moi les jetons !"
+          ]
+        }
+      }
+    ]
+  },
+  "22": {
+    "inspired by": [
+      "This Adele, is she pretty?",
+      "And a bit dim."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The new guy is a bit rude.",
+          "And dim."
+        ],
+        "trg": {
+          "correct": [
+            "Le nouveau est un peu impoli",
+            "Et stupide."
+          ],
+          "incorrect": [
+            "Le nouveau est un peu impoli",
+            "Et peu sombre."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The room's too small.",
+          "And dim."
+        ],
+        "trg": {
+          "correct": [
+            "La pièce est trop petite.",
+            "Et peu sombre."
+          ],
+          "incorrect": [
+            "La pièce est trop petite.",
+            "Et stupide."
+          ]
+        }
+      }
+    ]
+  },
+  "23": {
+    "inspired by": [
+      "And that nail gun that you have there.",
+      "Aside from silver nails, uh..."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "And the long screws.",
+          "We do silver nails too."
+        ],
+        "trg": {
+          "correct": [
+            "Et les vis longues.",
+            "On fait des clous argentés aussi."
+          ],
+          "incorrect": [
+            "Et les vis longues.",
+            "On fait des ongles argentés aussi."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The makeup looks good.",
+          "We do silver nails too."
+        ],
+        "trg": {
+          "correct": [
+            "Votre maquillage est très bien.",
+            "On fait des ongles argentés aussi."
+          ],
+          "incorrect": [
+            "Votre maquillage est très bien.",
+            "On fait des clous argentés aussi."
+          ]
+        }
+      }
+    ]
+  },
+  "24": {
+    "inspired by": [
+      "I talked to Bloom's old battalion chief in Denver, and I got an idea how to help him out.",
+      "First step, we fill up this boot."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Can you drive this to the dump?",
+          "First we should fill up the boot."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que tu peux amener ça à la déchetterie ?",
+            "Il faut d'abord remplir le coffre."
+          ],
+          "incorrect": [
+            "Est-ce que tu peux amener ça à la déchetterie ?",
+            "Il faut d'abord remplir la botte."
+          ]
+        }
+      },
+      {
+        "src": [
+          "You want a plaster cast of his foot?",
+          "First we should fill up the boot."
+        ],
+        "trg": {
+          "correct": [
+            "Vous voulez un plâtre de son pied ?",
+            "Il faut d'abord remplir la botte."
+          ],
+          "incorrect": [
+            "Vous voulez un plâtre de son pied ?",
+            "Il faut d'abord remplir le coffre."
+          ]
+        }
+      }
+    ]
+  },
+  "25": {
+    "inspired by": [
+      "You ruined it!",
+      "I wouldn't say I ruined it."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "You totally destroyed it!",
+          "I wouldn't say I totally destroyed it..."
+        ],
+        "trg": {
+          "correct": [
+            "Tu l'as totalement détruit !",
+            "Je ne dirais pas que je l'ai totalement détruit..."
+          ],
+          "incorrect": [
+            "Tu l'as totalement détruit !",
+            "Je ne dirais pas que je l'ai totalement cassé..."
+          ]
+        }
+      },
+      {
+        "src": [
+          "You totally destroyed it!",
+          "I wouldn't say I totally destroyed it..."
+        ],
+        "trg": {
+          "correct": [
+            "Tu l'as totalement cassé !",
+            "Je ne dirais pas que je l'ai totalement cassé..."
+          ],
+          "incorrect": [
+            "Tu l'as totalement cassé !",
+            "Je ne dirais pas que je l'ai totalement détruit..."
+          ]
+        }
+      }
+    ]
+  },
+  "26": {
+    "inspired by": [
+      "She hated me, hated our mom.",
+      "She hated everybody."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "She hates the forest, the beach, the city.",
+          "She hates everything."
+        ],
+        "trg": {
+          "correct": [
+            "Elle déteste la forêt, la plage, la ville.",
+            "Elle déteste tout."
+          ],
+          "incorrect": [
+            "Elle déteste la forêt, la plage, la ville.",
+            "Elle hait tout."
+          ]
+        }
+      },
+      {
+        "src": [
+          "She hates the forest, the beach, the city.",
+          "She hates everything."
+        ],
+        "trg": {
+          "correct": [
+            "Elle hait la forêt, la plage, la ville.",
+            "Elle hait tout."
+          ],
+          "incorrect": [
+            "Elle hait la forêt, la plage, la ville.",
+            "Elle déteste tout."
+          ]
+        }
+      }
+    ]
+  },
+  "27": {
+    "inspired by": [
+      "It's raining cats and goats out there.",
+      "Don't you mean \"cats and dogs\"?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "It's raining cats and goats out there.",
+          "Do you mean \"cats and dogs\"?"
+        ],
+        "trg": {
+          "correct": [
+            "Il pleut des hordes.",
+            "Tu veux dire \"des cordes\"?"
+          ],
+          "incorrect": [
+            "Il pleut des hordes.",
+            "Tu veux dire \"les chats et les chiens\"?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "We could get a pet - I like cats and goats.",
+          "Do you mean \"cats and dogs\"?"
+        ],
+        "trg": {
+          "correct": [
+            "On pourrait prendre un animal domestique - J'aime les chats et les chèvres.",
+            "Tu veux dire \"les chats et les chiens\"?"
+          ],
+          "incorrect": [
+            "On pourrait prendre un animal domestique - J'aime les chats et les chèvres.",
+            "Tu veux dire \"des cordes\"?"
+          ]
+        }
+      }
+    ]
+  },
+  "28": {
+    "inspired by": [
+      "Minister...",
+      "Look, why don't I show the minister around?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We should be getting back to the church.",
+          "The minister will be getting worried."
+        ],
+        "trg": {
+          "correct": [
+            "On devrait bientôt rentrer à l'église.",
+            "Le pasteur va s'inquiéter."
+          ],
+          "incorrect": [
+            "On devrait bientôt rentrer à l'église.",
+            "Le ministre va s'inquiéter."
+          ]
+        }
+      },
+      {
+        "src": [
+          "We should be getting back to Parliament.",
+          "The minister will be getting worried."
+        ],
+        "trg": {
+          "correct": [
+            "On devrait bientôt rentrer au Parlement.",
+            "Le ministre va s'inquiéter."
+          ],
+          "incorrect": [
+            "On devrait bientôt rentrer au Parlement.",
+            "Le pasteur va s'inquiéter."
+          ]
+        }
+      }
+    ]
+  },
+  "29": {
+    "inspired by": [
+      "This references a task force.",
+      "What task force?"
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "This references a task force.",
+          "Which task force ?"
+        ],
+        "trg": {
+          "correct": [
+            "Ceci fait référence à une unité opérationnelle.",
+            "Quelle unité opérationnelle ?"
+          ],
+          "incorrect": [
+            "Ceci fait référence à une unité opérationnelle.",
+            "Quel groupe de travail ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "This references a task force.",
+          "Which task force ?"
+        ],
+        "trg": {
+          "correct": [
+            "Ceci fait référence à un groupe de travail.",
+            "Quel groupe de travail ?"
+          ],
+          "incorrect": [
+            "Ceci fait référence à un groupe de travail.",
+            "Quelle unité opérationnelle ?"
+          ]
+        }
+      }
+    ]
+  },
+  "30": {
+    "inspired by": [
+      "You have to say yes.",
+      "Yes."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "Go on, say yes.",
+          "Yes."
+        ],
+        "trg": {
+          "correct": [
+            "Vas-y, dis oui.",
+            "Oui."
+          ],
+          "incorrect": [
+            "Vas-y, dis oui.",
+            "OK."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Go on, say yes.",
+          "Yes."
+        ],
+        "trg": {
+          "correct": [
+            "Vas-y, dis OK.",
+            "OK."
+          ],
+          "incorrect": [
+            "Vas-y, dis OK.",
+            "Oui."
+          ]
+        }
+      }
+    ]
+  },
+  "31": {
+    "inspired by": [
+      "Thus began the debt.",
+      "Crushing debt."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "And then the attack took place.",
+          "A truly terrible attack."
+        ],
+        "trg": {
+          "correct": [
+            "Et puis l'attaque a eu lieu.",
+            "Une attaque vraiment affreuse."
+          ],
+          "incorrect": [
+            "Et puis l'attaque a eu lieu.",
+            "Un assaut vraiment affreux."
+          ]
+        }
+      },
+      {
+        "src": [
+          "And then the attack took place.",
+          "A truly terrible attack."
+        ],
+        "trg": {
+          "correct": [
+            "Et puis l'assaut a eu lieu.",
+            "Un assaut vraiment affreux."
+          ],
+          "incorrect": [
+            "Et puis l'assaut a eu lieu.",
+            "Une attaque vraiment affreuse."
+          ]
+        }
+      }
+    ]
+  },
+  "32": {
+    "inspired by": [
+      "You know, it makes us feel so much more real.",
+      "Yeah, well, we are very real."
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "She comes across so angry.",
+          "Yes, well, she is angry."
+        ],
+        "trg": {
+          "correct": [
+            "Elle donne l'air tellement fâchée.",
+            "Oui elle est vraiment fâchée."
+          ],
+          "incorrect": [
+            "Elle donne l'air tellement fâchée.",
+            "Oui elle est vraiment énervée."
+          ]
+        }
+      },
+      {
+        "src": [
+          "She comes across so angry.",
+          "Yes, well, she is angry."
+        ],
+        "trg": {
+          "correct": [
+            "Elle donne l'air tellement énervée.",
+            "Oui elle est vraiment énervée."
+          ],
+          "incorrect": [
+            "Elle donne l'air tellement énervée.",
+            "Oui elle est vraiment fâchée."
+          ]
+        }
+      }
+    ]
+  },
+  "33": {
+    "inspired by": [
+      "Raise your arms.",
+      "Lower your arms."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Don't approach or I'll shoot.",
+          "Put down your arms."
+        ],
+        "trg": {
+          "correct": [
+            "N'approchez pas ou je tire.",
+            "Baissez vos armes."
+          ],
+          "incorrect": [
+            "N'approchez pas ou je tire.",
+            "Baissez vos bras."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Now lift up your right leg.",
+          "Put down your arms."
+        ],
+        "trg": {
+          "correct": [
+            "Maintenant levez votre jambe droite.",
+            "Baissez vos bras."
+          ],
+          "incorrect": [
+            "Maintenant levez votre jambe droite.",
+            "Baissez vos armes."
+          ]
+        }
+      }
+    ]
+  },
+  "34": {
+    "inspired by": [
+      "What's your name?",
+      "My name?"
+    ],
+    "type": "repet",
+    "examples": [
+      {
+        "src": [
+          "What's your name?",
+          "My name?"
+        ],
+        "trg": {
+          "correct": [
+            "Quel est votre nom ?",
+            "Mon nom ?"
+          ],
+          "incorrect": [
+            "Quel est votre nom ?",
+            "Comment je m'appelle ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "What's your name?",
+          "My name?"
+        ],
+        "trg": {
+          "correct": [
+            "Comment tu t'appelles ?",
+            "Comment je m'appelle ?"
+          ],
+          "incorrect": [
+            "Comment tu t'appelles ?",
+            "Mon nom ?"
+          ]
+        }
+      }
+    ]
+  },
+  "35": {
+    "inspired by": [
+      "What makes you so disgustingly cheerful this morning?",
+      "Must be the spring."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Why are you so happy today?",
+          "It must be the spring."
+        ],
+        "trg": {
+          "correct": [
+            "Pourquoi es-tu si content aujourd'hui ?",
+            "Ça doit être le printemps..."
+          ],
+          "incorrect": [
+            "Pourquoi es-tu si content aujourd'hui ?",
+            "Ça doit être le ressort..."
+          ]
+        }
+      },
+      {
+        "src": [
+          "That's not bouncing at all.",
+          "It must be the spring."
+        ],
+        "trg": {
+          "correct": [
+            "Ça ne rebondit pas du tout.",
+            "Ça doit être le ressort..."
+          ],
+          "incorrect": [
+            "Ça ne rebondit pas du tout.",
+            "Ça doit être le printemps..."
+          ]
+        }
+      }
+    ]
+  },
+  "36": {
+    "inspired by": [
+      "The bust went sour.",
+      "Yeah, it went sour, all right."
+    ],
+    "type": "repet, disambig",
+    "examples": [
+      {
+        "src": [
+          "Things started to go sour.",
+          "They started going sour alright."
+        ],
+        "trg": {
+          "correct": [
+            "Les choses ont commencé à mal tourner.",
+            "Elles ont commencé à vraiment mal tourner."
+          ],
+          "incorrect": [
+            "Les choses ont commencé à mal tourner.",
+            "Elles ont commencé à vraiment devenir amères."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The pumpkins started to go sour.",
+          "They started going sour alright."
+        ],
+        "trg": {
+          "correct": [
+            "Les citrouilles ont commencé à devenir amères.",
+            "Elles ont commencé à vraiment devenir amères."
+          ],
+          "incorrect": [
+            "Les citrouilles ont commencé à devenir amères.",
+            "Elles ont commencé à vraiment mal tourner."
+          ]
+        }
+      }
+    ]
+  },
+  "37": {
+    "inspired by": [
+      "He's a little soft.",
+      "Oh, who am I kidding? He's a lot soft"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I don't trust that spineless idiot.",
+          "I know, too soft."
+        ],
+        "trg": {
+          "correct": [
+            "Je n'ai pas confiance en cette chiffe molle.",
+            "Je sais. Trop faible."
+          ],
+          "incorrect": [
+            "Je n'ai pas confiance en cette chiffe molle.",
+            "Je sais. Trop soyeux."
+          ]
+        }
+      },
+      {
+        "src": [
+          "This fabric doesn't seem rustic enough.",
+          "I know, too soft."
+        ],
+        "trg": {
+          "correct": [
+            "Ce tissu n'a pas l'air assez rustique.",
+            "Je sais. Trop soyeux."
+          ],
+          "incorrect": [
+            "Ce tissu n'a pas l'air assez rustique.",
+            "Je sais. Trop faible."
+          ]
+        }
+      }
+    ]
+  },
+  "38": {
+    "inspired by": [
+      "No, um, I-I was thinking about who you should fire.",
+      "A rat in the house."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I don't know how they could have found out!",
+          "There must be a rat in the office."
+        ],
+        "trg": {
+          "correct": [
+            "Je ne sais pas comment ils ont pu savoir !",
+            "Il doit y avoir un traître dans le bureau."
+          ],
+          "incorrect": [
+            "Je ne sais pas comment ils ont pu savoir !",
+            "Il doit y avoir un rat dans le bureau."
+          ]
+        }
+      },
+      {
+        "src": [
+          "I can hear a scurrying sound behind the cupboard.",
+          "There must be a rat in the office."
+        ],
+        "trg": {
+          "correct": [
+            "J'entends des bruits de pattes derrière le placard.",
+            "Il doit y avoir un rat dans le bureau."
+          ],
+          "incorrect": [
+            "J'entends des bruits de pattes derrière le placard.",
+            "Il doit y avoir un traître dans le bureau."
+          ]
+        }
+      }
+    ]
+  },
+  "39": {
+    "inspired by": [
+      "You having trouble breathing?",
+      "My chest feels kinda heavy..."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Are you struggling to breathe?",
+          "My chest is quite heavy..."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que vous avez du mal à respirer ?",
+            "Ma poitrine est assez lourde..."
+          ],
+          "incorrect": [
+            "Est-ce que vous avez du mal à respirer ?",
+            "Mon coffre est assez lourd..."
+          ]
+        }
+      },
+      {
+        "src": [
+          "So what makes you think you have the most gold coins?",
+          "My chest is quite heavy..."
+        ],
+        "trg": {
+          "correct": [
+            "Pourquoi est-ce que tu penses que c'est toi qui as le plus de pièces en or ?",
+            "Mon coffre est assez lourd..."
+          ],
+          "incorrect": [
+            "Pourquoi est-ce que tu penses que c'est toi qui as le plus de pièces en or ?",
+            "Ma poitrine est assez lourde..."
+          ]
+        }
+      }
+    ]
+  },
+  "40": {
+    "inspired by": [
+      "Who 's defending her ?",
+      "Nobody in town would touch the case .."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Has he got anyone defending him?",
+          "Nobody will go anywhere near the case."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce qu'il a quelqu'un pour le défendre ?",
+            "Personne n'osera toucher le dossier."
+          ],
+          "incorrect": [
+            "Est-ce qu'il a quelqu'un pour le défendre ?",
+            "Personne ne s'approchera de la valise."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Make sure nobody touches my stuff, ok?",
+          "Nobody will go anywhere near the case."
+        ],
+        "trg": {
+          "correct": [
+            "Fais attention à ce que personne ne touche à mes affaires, d'accord ?",
+            "Personne ne s'approchera de la valise."
+          ],
+          "incorrect": [
+            "Fais attention à ce que personne ne touche à mes affaires, d'accord ?",
+            "Personne n'osera toucher le dossier."
+          ]
+        }
+      }
+    ]
+  },
+  "41": {
+    "inspired by": [
+      "It's getting hot.",
+      "Real hot."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The weather's starting to get hot.",
+          "Too hot for me."
+        ],
+        "trg": {
+          "correct": [
+            "Il commence à faire chaud.",
+            "Trop chaud pour moi."
+          ],
+          "incorrect": [
+            "Il commence à faire chaud.",
+            "Trop épicé pour moi."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The chicken curry's meant to be good.",
+          "Too hot for me."
+        ],
+        "trg": {
+          "correct": [
+            "Il paraît que le curry au poulet est bon.",
+            "Trop épicé pour moi."
+          ],
+          "incorrect": [
+            "Il paraît que le curry au poulet est bon.",
+            "Trop chaud pour moi."
+          ]
+        }
+      }
+    ]
+  },
+  "42": {
+    "inspired by": [
+      "Oh, shit, it's frozen.",
+      "It's frozen."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Oh shit. The computer screen's not working anything.",
+          "It's completely frozen."
+        ],
+        "trg": {
+          "correct": [
+            "Oh merde. Maintenant l'écran de l'ordinateur ne fonctionne plus.",
+            "Il est complètement bloqué."
+          ],
+          "incorrect": [
+            "Oh merde. Maintenant l'écran de l'ordinateur ne fonctionne plus.",
+            "Il est complètement congelé."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Hmm, I'm not sure the dessert is ready yet.",
+          "It's completely frozen."
+        ],
+        "trg": {
+          "correct": [
+            "Mmm, je ne suis pas sûre que le dessert soit prêt.",
+            "Il est complètement congelé."
+          ],
+          "incorrect": [
+            "Mmm, je ne suis pas sûre que le dessert soit prêt.",
+            "Il est complètement bloqué."
+          ]
+        }
+      }
+    ]
+  },
+  "43": {
+    "inspired by": [
+      "That must have been impossible.",
+      "No, it was a piece of cake."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Wasn't it too difficult?",
+          "No, it was a piece of cake."
+        ],
+        "trg": {
+          "correct": [
+            "Ce n'était pas trop difficile ?",
+            "Non, c'était un jeu d'enfant."
+          ],
+          "incorrect": [
+            "Ce n'était pas trop difficile ?",
+            "Si, c'était une part de gâteau."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Did you give her a slice of tart?",
+          "No, it was a piece of cake."
+        ],
+        "trg": {
+          "correct": [
+            "Tu lui as donné une part de tarte ?",
+            "Si, c'était une part de gâteau."
+          ],
+          "incorrect": [
+            "Tu lui as donné une part de tarte ?",
+            "Non, c'était un jeu d'enfant."
+          ]
+        }
+      }
+    ]
+  },
+  "44": {
+    "inspired by": [
+      "Okay, now we gotta go right.",
+      "My... my right."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Okay, now you want to turn right.",
+          "No, it's my right!"
+        ],
+        "trg": {
+          "correct": [
+            "OK, maintenant tu dois tourner à droite.",
+            "Non, c'est à ma droite !"
+          ],
+          "incorrect": [
+            "OK, maintenant tu dois tourner à droite.",
+            "Si, c'est mon droit !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "You can't make such a decision.",
+          "No, it's my right!"
+        ],
+        "trg": {
+          "correct": [
+            "Vous ne pouvez pas prendre une telle décision.",
+            "Si, c'est mon droit !"
+          ],
+          "incorrect": [
+            "Vous ne pouvez pas prendre une telle décision.",
+            "Non, c'est à ma droite !"
+          ]
+        }
+      }
+    ]
+  },
+  "45": {
+    "inspired by": [
+      "She called my daughter a fat pig!",
+      "Fat pig?"
+    ],
+    "type": "repet, disambig",
+    "examples": [
+      {
+        "src": [
+          "She insulted the mayor when she called her a fat pig.",
+          "A fat pig?"
+        ],
+        "trg": {
+          "correct": [
+            "Elle a insulté le maire en la traitant de grosse vache.",
+            "De grosse vache ?"
+          ],
+          "incorrect": [
+            "Elle a insulté le maire en la traitant de grosse vache.",
+            "Un gros cochon ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I'm going to market tomorrow to buy a pig.",
+          "A fat pig?"
+        ],
+        "trg": {
+          "correct": [
+            "Je vais au marché demain pour acheter un cochon.",
+            "Un gros cochon ?"
+          ],
+          "incorrect": [
+            "Je vais au marché demain pour acheter un cochon.",
+            "De grosse vache ?"
+          ]
+        }
+      }
+    ]
+  },
+  "46": {
+    "inspired by": [
+      "Listen, I think I can get out of here, but I can't do it on my own.",
+      "You see this beam moving? "
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I'm not very sure about the stability of the roof.",
+          "The beam seems to be moving."
+        ],
+        "trg": {
+          "correct": [
+            "Je ne suis très sûre que le toit soit très stable.",
+            "La poutre a l'air de bouger."
+          ],
+          "incorrect": [
+            "Je ne suis très sûre que le toit soit très stable.",
+            "Le rayon a l'air de bouger."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The spaceship is still hovering.",
+          "The beam seems to be moving."
+        ],
+        "trg": {
+          "correct": [
+            "Le vaisseau spatial fait du surplace.",
+            "Le rayon a l'air de bouger."
+          ],
+          "incorrect": [
+            "Le vaisseau spatial fait du surplace.",
+            "La poutre a l'air de bouger."
+          ]
+        }
+      }
+    ]
+  },
+  "47": {
+    "inspired by": [
+      "AII those sensitive tumbIers awaiting the intimate caress of a precision-made key.",
+      "You can pick it?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "This lock's a tricky one.",
+          "I'll let you pick it then."
+        ],
+        "trg": {
+          "correct": [
+            "Cette serrure est difficile.",
+            "Alors je te laisse la forcer."
+          ],
+          "incorrect": [
+            "Cette serrure est difficile.",
+            "Alors je te laisse choisir."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Nah, I'm not a big fan of that one.",
+          "I'll let you pick it then."
+        ],
+        "trg": {
+          "correct": [
+            "Non, je ne suis pas grand fan de celle-là.",
+            "Alors je te laisse choisir."
+          ],
+          "incorrect": [
+            "Non, je ne suis pas grand fan de celle-là.",
+            "Alors je te laisse la forcer."
+          ]
+        }
+      }
+    ]
+  },
+  "48": {
+    "inspired by": [
+      "\"Crumpet.\" I repeat, \"crumpet.\"",
+      "This is not a drill."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Evacuate immediately.",
+          "Is this not a drill?"
+        ],
+        "trg": {
+          "correct": [
+            "Evacuez immédiatement.",
+            "Ce n'est pas un exercice ?"
+          ],
+          "incorrect": [
+            "Evacuez immédiatement.",
+            "Ce n'est pas une perceuse ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I need you to go and find me a drill.",
+          "Is this not a drill?"
+        ],
+        "trg": {
+          "correct": [
+            "J'ai besoin que tu me trouves une perceuse.",
+            "Ce n'est pas une perceuse ?"
+          ],
+          "incorrect": [
+            "J'ai besoin que tu me trouves une perceuse.",
+            "Ce n'est pas un exercice ?"
+          ]
+        }
+      }
+    ]
+  },
+  "49": {
+    "inspired by": [
+      "Well, I was thinking maybe i could go with Eddie.",
+      "On the last leg of his book tour?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Has he almost finished his tour?",
+          "He's on the last leg."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce qu'il a bientôt fini sa tournée ?",
+            "Il en est à la dernière étape."
+          ],
+          "incorrect": [
+            "Est-ce qu'il a bientôt fini sa tournée ?",
+            "Il en est au dernier pied."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Has he finished putting the table together yet?",
+          "He's on the last leg."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce qu'il a fini de monter la table ?",
+            "Il en est au dernier pied."
+          ],
+          "incorrect": [
+            "Est-ce qu'il a fini de monter la table ?",
+            "Il en est à la dernière étape."
+          ]
+        }
+      }
+    ]
+  },
+  "50": {
+    "inspired by": [
+      "I hope I'm not too heavy.",
+      "No, no, no, you're... light as a... as a feather. "
+    ],
+    "examples": [
+      {
+        "src": [
+          "You mean I have to carry it myself?",
+          "Don't worry, it's very light."
+        ],
+        "trg": {
+          "correct": [
+            "Vous voulez dire que je dois le porter moi-même ?",
+            "Ne vous inquiétez pas, il est très léger."
+          ],
+          "incorrect": [
+            "Vous voulez dire que je dois le porter moi-même ?",
+            "Ne vous inquiétez pas, il est très lumineux."
+          ]
+        }
+      },
+      {
+        "src": [
+          "So the office only has one window?",
+          "Don't worry, it's very light."
+        ],
+        "trg": {
+          "correct": [
+            "Le bureau n'a qu'une seule fenêtre ?",
+            "Ne vous inquiétez pas, il est très lumineux."
+          ],
+          "incorrect": [
+            "Le bureau n'a qu'une seule fenêtre ?",
+            "Ne vous inquiétez pas, il est très léger."
+          ]
+        }
+      }
+    ]
+  },
+  "51": {
+    "inspired by": [
+      "What do you want here ?",
+      "Well , this happens to be my pen ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Where did you say the chicken was?",
+          "Over there by the pen."
+        ],
+        "trg": {
+          "correct": [
+            "Elle était où la poule en fait?",
+            "Là-bas à côté de l'enclos."
+          ],
+          "incorrect": [
+            "Elle était où la poule en fait?",
+            "Là-bas à côté du stylo."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Where did you say the pencil was?",
+          "Over there by the pen."
+        ],
+        "trg": {
+          "correct": [
+            "Il était où le crayon en fait?",
+            "Là-bas à côté du stylo."
+          ],
+          "incorrect": [
+            "Il était où le crayon en fait?",
+            "Là-bas à côté de l'enclos."
+          ]
+        }
+      }
+    ]
+  },
+  "52": {
+    "inspired by": [
+      "I suppose you wear suspenders . I mean braces .",
+      "Yeah , just as I thought , braces ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Oh, I do like your... the things holding up your trousers.",
+          "They're braces."
+        ],
+        "trg": {
+          "correct": [
+            "Ô, j'aime bien tes... les machins qui tiennent ton pantalon.",
+            "Ce sont des bretelles."
+          ],
+          "incorrect": [
+            "Ô, j'aime bien tes... les machins qui tiennent ton pantalon.",
+            "C'est un appareil dentaire."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Oh, what a pretty smile, despite the thing on your teeth.",
+          "They're braces."
+        ],
+        "trg": {
+          "correct": [
+            "Ô, quel joli sourire, malgré ce truc sur tes dents.",
+            "C'est un appareil dentaire."
+          ],
+          "incorrect": [
+            "Ô, quel joli sourire, malgré ce truc sur tes dents.",
+            "Ce sont des bretelles."
+          ]
+        }
+      }
+    ]
+  },
+  "53": {
+    "inspired by": [
+      "What about him ?",
+      "Some kind of nut , I think ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "She always manages to find the crazy ones.",
+          "I know. The last one was a real nut."
+        ],
+        "trg": {
+          "correct": [
+            "Elle arrive toujours à trouver des dingues.",
+            "Je sais. Le dernier était un vrai fou."
+          ],
+          "incorrect": [
+            "Elle arrive toujours à trouver des dingues.",
+            "Je sais. Le dernier était une vraie noix."
+          ]
+        }
+      },
+      {
+        "src": [
+          "She needs to be careful with those nibbles - she's allergic, you know.",
+          "I know. The last one was a real nut."
+        ],
+        "trg": {
+          "correct": [
+            "Elle doit faire attention avec ses amuse-gueules - elle est allergique, tu sais.",
+            "Je sais. Le dernier était une vraie noix."
+          ],
+          "incorrect": [
+            "Elle doit faire attention avec ses amuse-gueules - elle est allergique, tu sais.",
+            "Je sais. Le dernier était un vrai fou."
+          ]
+        }
+      }
+    ]
+  },
+  "54": {
+    "inspired by": [
+      "Gentlemen , I 'll take those weapons .",
+      "Don 't lose the clip ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Give the weapons here.",
+          "Be careful not to drop the clip!"
+        ],
+        "trg": {
+          "correct": [
+            "Passe-moi les armes.",
+            "Fais gaffe de ne pas faire tomber le chargeur !"
+          ],
+          "incorrect": [
+            "Passe-moi les armes.",
+            "Fais gaffe de ne pas faire tomber la barrette !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Hold this piece of hair and I'll attach the other strand here.",
+          "Be careful not to drop the clip!"
+        ],
+        "trg": {
+          "correct": [
+            "Tiens ces cheveux et je vais attacher l'autre mèche ici.",
+            "Fais gaffe de ne pas faire tomber la barrette !"
+          ],
+          "incorrect": [
+            "Tiens ces cheveux et je vais attacher l'autre mèche ici.",
+            "Fais gaffe de ne pas faire tomber le chargeur !"
+          ]
+        }
+      }
+    ]
+  },
+  "55": {
+    "inspired by": [
+      "I already got a guitar pick anyways .",
+      "Dude , we can still use the pick ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "But you need good nails to play the guitar.",
+          "It might be easier with a pick."
+        ],
+        "trg": {
+          "correct": [
+            "Mais il faut de bons ongles pour jouer de la guitare.",
+            "C'est peut-être plus facile avec un médiator."
+          ],
+          "incorrect": [
+            "Mais il faut de bons ongles pour jouer de la guitare.",
+            "C'est peut-être plus facile avec une pioche."
+          ]
+        }
+      },
+      {
+        "src": [
+          "This soil is rock solid.",
+          "It might be easier with a pick."
+        ],
+        "trg": {
+          "correct": [
+            "Cette terre est dure comme du béton.",
+            "C'est peut-être plus facile avec une pioche."
+          ],
+          "incorrect": [
+            "Cette terre est dure comme du béton.",
+            "C'est peut-être plus facile avec un médiator."
+          ]
+        }
+      }
+    ]
+  },
+  "56": {
+    "inspired by": [
+      "Here 's some jam .",
+      "And a roll for each of you ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Hey! I was hungry and that was mine!",
+          "It's my roll now!"
+        ],
+        "trg": {
+          "correct": [
+            "Hé ! J'avais faim et c'était le mien!",
+            "C'est mon sandwich maintenant !"
+          ],
+          "incorrect": [
+            "Hé ! J'avais faim et c'était le mien!",
+            "C'est mon tour maintenant !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "So I move my piece forward four squares.",
+          "It's my roll now!"
+        ],
+        "trg": {
+          "correct": [
+            "Donc je fais avancer mon pion de quatre cases.",
+            "C'est mon tour maintenant !"
+          ],
+          "incorrect": [
+            "Donc je fais avancer mon pion de quatre cases.",
+            "C'est mon sandwich maintenant !"
+          ]
+        }
+      }
+    ]
+  },
+  "57": {
+    "inspired by": [
+      "-You know , buddy , I think you might like playing some pool down at my club .",
+      "Oh , you have a club ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I'll play two hearts.",
+          "I have a club."
+        ],
+        "trg": {
+          "correct": [
+            "Je joue deux cœurs.",
+            "J'ai un trèfle."
+          ],
+          "incorrect": [
+            "Je joue deux cœurs.",
+            "J'ai une boîte de nuit."
+          ]
+        }
+      },
+      {
+        "src": [
+          "So I hear you own a bar...",
+          "I have a club."
+        ],
+        "trg": {
+          "correct": [
+            "Donc on m'a dit que vous teniez un bar...",
+            "J'ai une boîte de nuit."
+          ],
+          "incorrect": [
+            "Donc on m'a dit que vous teniez un bar...",
+            "J'ai un trèfle."
+          ]
+        }
+      }
+    ]
+  },
+  "58": {
+    "inspired by": [
+      "to aid you , if you 're true .",
+      "What do you see on the trunk ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I know it was here, somewhere behind the leaves.",
+          "There, on the trunk."
+        ],
+        "trg": {
+          "correct": [
+            "Je sais qu'il était là, quelque part derrière les feuilles.",
+            "Là, sur le tronc."
+          ],
+          "incorrect": [
+            "Je sais qu'il était là, quelque part derrière les feuilles.",
+            "Là, sur la trompe."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The poor elephant has a couple of injuries unfortunately.",
+          "There, on the trunk."
+        ],
+        "trg": {
+          "correct": [
+            "Le pauvre éléphant a malheureusement quelques blessures.",
+            "Là, sur la trompe."
+          ],
+          "incorrect": [
+            "Le pauvre éléphant a malheureusement quelques blessures.",
+            "Là, sur le tronc."
+          ]
+        }
+      }
+    ]
+  },
+  "59": {
+    "inspired by": [
+      "Where are you bound ?",
+      "What port ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The captain said we're sailing to France.",
+          "Which port does he want?"
+        ],
+        "trg": {
+          "correct": [
+            "Le capitaine dit qu'on navigue en direction de la France.",
+            "Il veut quel port ?"
+          ],
+          "incorrect": [
+            "Le capitaine dit qu'on navigue en direction de la France.",
+            "Il veut quel porto ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "They've finished the main course and are asking for dessert.",
+          "Which port does he want?"
+        ],
+        "trg": {
+          "correct": [
+            "Ils ont fini le plat principal et ils réclament le dessert.",
+            "Il veut quel porto ?"
+          ],
+          "incorrect": [
+            "Ils ont fini le plat principal et ils réclament le dessert.",
+            "Il veut quel port ?"
+          ]
+        }
+      }
+    ]
+  },
+  "60": {
+    "inspired by": [
+      "And you better step on it .",
+      "Thanks for the tip ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Thank you - the dinner and service was perfect.",
+          "Thank you for the tip."
+        ],
+        "trg": {
+          "correct": [
+            "Merci - le dîner et le service était parfait.",
+            "Merci pour le pourboire."
+          ],
+          "incorrect": [
+            "Merci - le dîner et le service était parfait.",
+            "Merci pour ton conseil."
+          ]
+        }
+      },
+      {
+        "src": [
+          "That's what I would do...",
+          "Thank you for the tip."
+        ],
+        "trg": {
+          "correct": [
+            "C'est ce que je ferais...",
+            "Merci pour ton conseil."
+          ],
+          "incorrect": [
+            "C'est ce que je ferais...",
+            "Merci pour le pourboire."
+          ]
+        }
+      }
+    ]
+  },
+  "61": {
+    "inspired by": [
+      "He just took her .",
+      "I 'm sorry , the tape ran out ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Did you manage to record that?",
+          "Sorry, the tape's just run out."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que tu as pu enregister ça ?",
+            "Désolé, on était arrivés à la fin de la cassette."
+          ],
+          "incorrect": [
+            "Est-ce que tu as pu enregister ça ?",
+            "Désolé, on vient de finir le rouleau."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Just stick one more piece here to seal it.",
+          "Sorry, the tape's just run out."
+        ],
+        "trg": {
+          "correct": [
+            "Mets juste un dernier morceau ici pour le fermer",
+            "Désolé, on vient de finir le rouleau."
+          ],
+          "incorrect": [
+            "Mets juste un dernier morceau ici pour le fermer",
+            "Désolé, on était arrivés à la fin de la cassette."
+          ]
+        }
+      }
+    ]
+  },
+  "62": {
+    "inspired by": [
+      "Bob , I was thinking ... about staying away from the streets for a little while .",
+      "Staying away from all the filth ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "They're in real danger of getting sent done again.",
+          "But they won't be able to avoid the filth for much longer."
+        ],
+        "trg": {
+          "correct": [
+            "Ils courent le risque d'être renvoyé en prison.",
+            "Mais ils ne pourront plus échapper aux flics très longtemps."
+          ],
+          "incorrect": [
+            "Ils courent le risque d'être renvoyé en prison.",
+            "Mais ils ne pourront plus ignorer la saleté très longtemps."
+          ]
+        }
+      },
+      {
+        "src": [
+          "They can spray as much perfume as they want.",
+          "But they won't be able to avoid the filth for much longer."
+        ],
+        "trg": {
+          "correct": [
+            "Ils peuvent répandre du parfum tant qu'ils veulent.",
+            "Mais ils ne pourront plus ignorer la saleté très longtemps."
+          ],
+          "incorrect": [
+            "Ils peuvent répandre du parfum tant qu'ils veulent.",
+            "Mais ils ne pourront plus échapper aux flics très longtemps."
+          ]
+        }
+      }
+    ]
+  },
+  "63": {
+    "inspired by": [
+      "And for dessert ...",
+      "From the board ..."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "His name's been removed from the... from the...",
+          "From the board."
+        ],
+        "trg": {
+          "correct": [
+            "Son nom a été enlevé du... du...",
+            "Du tableau."
+          ],
+          "incorrect": [
+            "Son nom a été enlevé du... du...",
+            "Du conseil."
+          ]
+        }
+      },
+      {
+        "src": [
+          "He's been struck off from the... from the...",
+          "From the board."
+        ],
+        "trg": {
+          "correct": [
+            "Il a été viré du... du...",
+            "Du conseil."
+          ],
+          "incorrect": [
+            "Il a été viré du... du...",
+            "Du tableau."
+          ]
+        }
+      }
+    ]
+  },
+  "64": {
+    "inspired by": [
+      "There 's no seal on it .",
+      "Where 's the seal ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "This just arrived, but I do not know who could have sent it.",
+          "Have you checked the seal?"
+        ],
+        "trg": {
+          "correct": [
+            "Ceci vient d'arriver, mais je ne sais pas qui a pu l'envoyer.",
+            "Est-ce que vous avez vérifié le cachet ?"
+          ],
+          "incorrect": [
+            "Ceci vient d'arriver, mais je ne sais pas qui a pu l'envoyer.",
+            "Est-ce que vous avez vérifié le phoque ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "The penguins have been set free.",
+          "Have you checked the seal?"
+        ],
+        "trg": {
+          "correct": [
+            "Les manchots ont été libérés.",
+            "Est-ce que vous avez vérifié le phoque ?"
+          ],
+          "incorrect": [
+            "Les manchots ont été libérés.",
+            "Est-ce que vous avez vérifié le cachet ?"
+          ]
+        }
+      }
+    ]
+  },
+  "65": {
+    "inspired by": [
+      "The chair .",
+      "What is the chair doing here ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The chair will join us in five minutes.",
+          "Why is the chair here?"
+        ],
+        "trg": {
+          "correct": [
+            "Le président nous rejoindra dans cinq minutes.",
+            "Pourquoi le président est-il là ?"
+          ],
+          "incorrect": [
+            "Le président nous rejoindra dans cinq minutes.",
+            "Pourquoi la chaise est-elle là ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Do you mind if I move this chair out the way?",
+          "Why is the chair here?"
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que ça vous dérange que je déplace la chaise ?",
+            "Pourquoi la chaise est-elle là ?"
+          ],
+          "incorrect": [
+            "Est-ce que ça vous dérange que je déplace la chaise ?",
+            "Pourquoi le président est-il là ?"
+          ]
+        }
+      }
+    ]
+  },
+  "66": {
+    "inspired by": [
+      "Old MacDonald had a farm",
+      "Throw me that ball, Rusty ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We've been thinking about it and we'd like to throw a ball this weekend.",
+          "A ball!"
+        ],
+        "trg": {
+          "correct": [
+            "Nous avons réfléchi et nous aimerions bien organiser un bal ce weekend.",
+            "Un bal !"
+          ],
+          "incorrect": [
+            "Nous avons réfléchi et nous aimerions bien organiser un bal ce weekend.",
+            "Un ballon !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I'll buy you one thing: either a ball or a yoyo.",
+          "A ball!"
+        ],
+        "trg": {
+          "correct": [
+            "Je t'acheterai une seule chose : soit un ballon soit un yoyo.",
+            "Un ballon !"
+          ],
+          "incorrect": [
+            "Je t'acheterai une seule chose : soit un ballon soit un yoyo.",
+            "Un bal !"
+          ]
+        }
+      }
+    ]
+  },
+  "67": {
+    "inspired by": [
+      "What damages ?",
+      "A hole in the tank ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The fish tank's spewing water.",
+          "There must be a hole in the tank somewhere."
+        ],
+        "trg": {
+          "correct": [
+            "L'aquarium perd de l'eau.",
+            "Il doit y avoir un trou dans l'aquarium quelque part."
+          ],
+          "incorrect": [
+            "L'aquarium perd de l'eau.",
+            "Il doit y avoir un trou dans la citerne quelque part."
+          ]
+        }
+      },
+      {
+        "src": [
+          "There's oil everywhere.",
+          "There must be a hole in the tank somewhere."
+        ],
+        "trg": {
+          "correct": [
+            "Il y a de l'huile partout.",
+            "Il doit y avoir un trou dans la citerne quelque part."
+          ],
+          "incorrect": [
+            "Il y a de l'huile partout.",
+            "Il doit y avoir un trou dans l'aquarium quelque part."
+          ]
+        }
+      }
+    ]
+  },
+  "68": {
+    "inspired by": [
+      "Would this pencil do ?",
+      "We must get on without the poker ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I can't seem to find a full pack of cards.",
+          "We're going to have to do without the poker then."
+        ],
+        "trg": {
+          "correct": [
+            "Je n'arrive pas à trouver un jeu de cartes complet.",
+            "On va devoir oublier le poker alors."
+          ],
+          "incorrect": [
+            "Je n'arrive pas à trouver un jeu de cartes complet.",
+            "On va devoir faire sans le tison alors."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The poker's being used to prop up the table.",
+          "We're going to have to do without the poker then."
+        ],
+        "trg": {
+          "correct": [
+            "Le tison est utilisé pour soutenir la table.",
+            "On va devoir faire sans le tison alors."
+          ],
+          "incorrect": [
+            "Le tison est utilisé pour soutenir la table.",
+            "On va devoir oublier le poker alors."
+          ]
+        }
+      }
+    ]
+  },
+  "69": {
+    "inspired by": [
+      "I got to beat it now , Jim .",
+      "But the place is yours ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I should probably be off now.",
+          "But this is your place."
+        ],
+        "trg": {
+          "correct": [
+            "Je devrais probablement partir maintenant.",
+            "Mais on est chez toi ici."
+          ],
+          "incorrect": [
+            "Je devrais probablement partir maintenant.",
+            "Mais c'est ta place ici."
+          ]
+        }
+      },
+      {
+        "src": [
+          "I'm going to go find a seat over there.",
+          "But this is your place."
+        ],
+        "trg": {
+          "correct": [
+            "Je vais aller trouver une place là-bas.",
+            "Mais c'est ta place ici."
+          ],
+          "incorrect": [
+            "Je vais aller trouver une place là-bas.",
+            "Mais on est chez toi ici."
+          ]
+        }
+      }
+    ]
+  },
+  "70": {
+    "inspired by": [
+      "Okay , new cup ?",
+      "Fuck the cup ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "If you don't train harder, we're not going to win the cup.",
+          "I don't give a damn about the cup."
+        ],
+        "trg": {
+          "correct": [
+            "Si vous ne vous entraînez pas plus, on ne va pas gagner la coupe.",
+            "Je n'ai rien à faire de la coupe."
+          ],
+          "incorrect": [
+            "Si vous ne vous entraînez pas plus, on ne va pas gagner la coupe.",
+            "Je n'ai rien à faire de la tasse."
+          ]
+        }
+      },
+      {
+        "src": [
+          "You've gone and broken the teacup!",
+          "I don't give a damn about the cup."
+        ],
+        "trg": {
+          "correct": [
+            "Tu as cassé la tasse !",
+            "Je n'ai rien à faire de la tasse."
+          ],
+          "incorrect": [
+            "Tu as cassé la tasse !",
+            "Je n'ai rien à faire de la coupe."
+          ]
+        }
+      }
+    ]
+  },
+  "71": {
+    "inspired by": [
+      "Guilty .",
+      "And what was the sentence ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The verdict isn't great.",
+          "What is the final sentence?"
+        ],
+        "trg": {
+          "correct": [
+            "Le verdict n'est pas bon.",
+            "Quel est le jugement final ?"
+          ],
+          "incorrect": [
+            "Le verdict n'est pas bon.",
+            "Quelle est la dernière phrase ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Have you finished the text yet?",
+          "What is the final sentence?"
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce vous avez déjà fini le texte ?",
+            "Quelle est la dernière phrase ?"
+          ],
+          "incorrect": [
+            "Est-ce vous avez déjà fini le texte ?",
+            "Quel est le jugement final ?"
+          ]
+        }
+      }
+    ]
+  },
+  "72": {
+    "inspired by": [
+      "Not at the boardinghouse .",
+      "The fans were out of order ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "She really disappointed her fans that evening.",
+          "The fans were still out of order."
+        ],
+        "trg": {
+          "correct": [
+            "Elle a vraiment déçu ses fans ce soir-là.",
+            "Les fans sont allés trop loin."
+          ],
+          "incorrect": [
+            "Elle a vraiment déçu ses fans ce soir-là.",
+            "Les ventilateurs étaient toujours hors service."
+          ]
+        }
+      },
+      {
+        "src": [
+          "It was so stuffy in the meeting room.",
+          "The fans were still out of order."
+        ],
+        "trg": {
+          "correct": [
+            "C'était vraiment étouffant dans la salle de réunion.",
+            "Les ventilateurs étaient toujours hors service."
+          ],
+          "incorrect": [
+            "C'était vraiment étouffant dans la salle de réunion.",
+            "Les fans sont allés trop loin."
+          ]
+        }
+      }
+    ]
+  },
+  "73": {
+    "inspired by": [
+      "Hey , have a heart , we 're trying to get some sleep down here .",
+      "Pull the plug out ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The bath water's overflowing!",
+          "Pull out the plug quick!"
+        ],
+        "trg": {
+          "correct": [
+            "L'eau déborde de la baignoire!",
+            "Enlève vite la bonde !"
+          ],
+          "incorrect": [
+            "L'eau déborde de la baignoire!",
+            "Débranche vite la prise !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "There's an electrical problem.",
+          "Pull out the plug quick!"
+        ],
+        "trg": {
+          "correct": [
+            "Il y a un problème électrique.",
+            "Débranche vite la prise !"
+          ],
+          "incorrect": [
+            "Il y a un problème électrique.",
+            "Enlève vite la bonde !"
+          ]
+        }
+      }
+    ]
+  },
+  "74": {
+    "inspired by": [
+      "Maybe that wasn 't such a good idea .",
+      "I don 't think we should use the brushes "
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We could use a brush to detangle the hair.",
+          "I don't think we should use a brush."
+        ],
+        "trg": {
+          "correct": [
+            "On pourrait utiliser une brosse pour démêler les cheveux.",
+            "Je pense qu'on ne devrait pas utiliser une brosse."
+          ],
+          "incorrect": [
+            "On pourrait utiliser une brosse pour démêler les cheveux.",
+            "Je pense qu'on ne devrait pas utiliser un pinceau."
+          ]
+        }
+      },
+      {
+        "src": [
+          "We could start with the paintbrushes over there.",
+          "I don't think we should use a brush."
+        ],
+        "trg": {
+          "correct": [
+            "On pourrait commencer avec les pinceaux là-bas.",
+            "Je pense qu'on ne devrait pas utiliser un pinceau."
+          ],
+          "incorrect": [
+            "On pourrait commencer avec les pinceaux là-bas.",
+            "Je pense qu'on ne devrait pas utiliser une brosse."
+          ]
+        }
+      }
+    ]
+  },
+  "75": {
+    "inspired by": [
+      "What kind of safety features ?",
+      "It 's got a horn , and I 've got an airbag ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "What other features aside the airbag...",
+          "There's the horn."
+        ],
+        "trg": {
+          "correct": [
+            "Quelles autres caractéristiques à part l'airbag...",
+            "Il y a le klaxon."
+          ],
+          "incorrect": [
+            "Quelles autres caractéristiques à part l'airbag...",
+            "Il y a le cor."
+          ]
+        }
+      },
+      {
+        "src": [
+          "What other brass instruments aside the trumpet...",
+          "There's the horn."
+        ],
+        "trg": {
+          "correct": [
+            "Quels autres instruments à part la trompette...",
+            "Il y a le cor."
+          ],
+          "incorrect": [
+            "Quels autres instruments à part la trompette...",
+            "Il y a le klaxon."
+          ]
+        }
+      }
+    ]
+  },
+  "76": {
+    "inspired by": [
+      "Someone 's been aboard .",
+      "In her cabin ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Is Rebecca coming on the plane with us?",
+          "She's waiting for us in the cabin."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que Rebecca vient dans l'avion avec nous ?",
+            "Elle nous attend dans la cabine."
+          ],
+          "incorrect": [
+            "Est-ce que Rebecca vient dans l'avion avec nous ?",
+            "Elle nous attend dans la cabane."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Will Rebecca be coming with us on the hike?",
+          "She's waiting for us in the cabin."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que Rebecca vient faire la randonnée avec nous ?",
+            "Elle nous attend dans la cabane."
+          ],
+          "incorrect": [
+            "Est-ce que Rebecca vient faire la randonnée avec nous ?",
+            "Elle nous attend dans la cabine."
+          ]
+        }
+      }
+    ]
+  },
+  "77": {
+    "inspired by": [
+      "Oh , I should not speak of it , huh ?",
+      "Oh , now I have let the cat out from the bag ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Oh no, it's no secret - I know already.",
+          "Has somebody let the cat out of the bag?"
+        ],
+        "trg": {
+          "correct": [
+            "Oh non, ce n'est pas un secret - je le sais déjà.",
+            "Est-ce que quelqu'un a vendu la mèche ?"
+          ],
+          "incorrect": [
+            "Oh non, ce n'est pas un secret - je le sais déjà.",
+            "Est-ce que quelqu'un a fait sortir le chat du sac ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "What's that meowing sound?",
+          "Has somebody let the cat out of the bag?"
+        ],
+        "trg": {
+          "correct": [
+            "C'est quoi ce miaulement ?",
+            "Est-ce que quelqu'un a fait sortir le chat du sac ?"
+          ],
+          "incorrect": [
+            "C'est quoi ce miaulement ?",
+            "Est-ce que quelqu'un a vendu la mèche ?"
+          ]
+        }
+      }
+    ]
+  },
+  "78": {
+    "inspired by": [
+      "Okay , I 'm turning .",
+      "Can 't you see the lights ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Why are they honking at me?",
+          "Can you not see the red light?"
+        ],
+        "trg": {
+          "correct": [
+            "Pourquoi ils me klaxonnent ?",
+            "Tu ne vois pas le feu rouge ?"
+          ],
+          "incorrect": [
+            "Pourquoi ils me klaxonnent ?",
+            "Tu ne vois pas la lumière rouge ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "It might be on standby but I can't be sure.",
+          "Can you not see the red light?"
+        ],
+        "trg": {
+          "correct": [
+            "Il est peut-être en veille, mais je ne suis pas sûr.",
+            "Tu ne vois pas la lumière rouge ?"
+          ],
+          "incorrect": [
+            "Il est peut-être en veille, mais je ne suis pas sûr.",
+            "Tu ne vois pas le feu rouge ?"
+          ]
+        }
+      }
+    ]
+  },
+  "79": {
+    "inspired by": [
+      "What do you think about lions ?",
+      "I mean , they are stupid cats , don 't you think ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "And what about tigers?",
+          "Oh they're my favourite cats."
+        ],
+        "trg": {
+          "correct": [
+            "Et que penses-tu des tigres ?",
+            "Oh, ce sont mes fauves favoris."
+          ],
+          "incorrect": [
+            "Et que penses-tu des tigres ?",
+            "Oh, ce sont mes chats favoris."
+          ]
+        }
+      },
+      {
+        "src": [
+          "And what about tabbies?",
+          "Oh they're my favourite cats."
+        ],
+        "trg": {
+          "correct": [
+            "Et que penses-tu des chats tigrés ?",
+            "Oh, ce sont mes chats favoris."
+          ],
+          "incorrect": [
+            "Et que penses-tu des chats tigrés ?",
+            "Oh, ce sont mes fauves favoris."
+          ]
+        }
+      }
+    ]
+  },
+  "80": {
+    "inspired by": [
+      "What ?",
+      "When you went to the doctor , did you ask him to get the lead out ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "And what did the doctor tell you?",
+          "They probably should have taken the lead out."
+        ],
+        "trg": {
+          "correct": [
+            "Et qu'est-ce que le médecin t'a dit ?",
+            "Ils auraient probablement dû enlever le plomb."
+          ],
+          "incorrect": [
+            "Et qu'est-ce que le médecin t'a dit ?",
+            "Ils auraient probablement dû prendre la laisse."
+          ]
+        }
+      },
+      {
+        "src": [
+          "So how did they get on with the new puppy?",
+          "They probably should have taken the lead out."
+        ],
+        "trg": {
+          "correct": [
+            "Alors comment ça s'est passé avec le nouveau chiot?",
+            "Ils auraient probablement dû prendre la laisse."
+          ],
+          "incorrect": [
+            "Alors comment ça s'est passé avec le nouveau chiot?",
+            "Ils auraient probablement dû enlever le plomb."
+          ]
+        }
+      }
+    ]
+  },
+  "81": {
+    "inspired by": [
+      "What happened , Herman ?",
+      "The alarm went off"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Have you had any problems with the alarm recently?",
+          "It went off last week..."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que vous avez eu des problèmes avec l'alarme récemment ?",
+            "Elle s'est déclenchée la semaine dernière..."
+          ],
+          "incorrect": [
+            "Est-ce que vous avez eu des problèmes avec l'alarme récemment ?",
+            "Elle a tourné la semaine dernière..."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Do you think the cream's ok to drink?",
+          "It went off last week..."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que tu penses que la crème est bonne à boire ?",
+            "Elle a tourné la semaine dernière..."
+          ],
+          "incorrect": [
+            "Est-ce que tu penses que la crème est bonne à boire ?",
+            "Elle s'est déclenchée la semaine dernière..."
+          ]
+        }
+      }
+    ]
+  },
+  "82": {
+    "inspired by": [
+      "Come on .",
+      "You had the whole bar in the palm of your hand ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I can't believe you only ate one square.",
+          "You could have had the whole bar if you'd wanted to."
+        ],
+        "trg": {
+          "correct": [
+            "Je n'y crois pas que tu aies mangé un seul carreau.",
+            "Tu aurais pu manger la barre entière si tu l'avais voulue."
+          ],
+          "incorrect": [
+            "Je n'y crois pas que tu aies mangé un seul carreau.",
+            "Tu aurais pu boire le bar entier si tu l'avais voulu."
+          ]
+        }
+      },
+      {
+        "src": [
+          "I can't believe your restraint when it comes to alcohol.",
+          "You could have had the whole bar if you'd wanted to."
+        ],
+        "trg": {
+          "correct": [
+            "Je suis étonnée par ta modération avec l'alcool.",
+            "Tu aurais pu boire le bar entier si tu l'avais voulu."
+          ],
+          "incorrect": [
+            "Je suis étonnée par ta modération avec l'alcool.",
+            "Tu aurais pu manger la barre entière si tu l'avais voulue."
+          ]
+        }
+      }
+    ]
+  },
+  "83": {
+    "inspired by": [
+      "\" One day we 'll share a cold one . \"",
+      "Thank god for showers ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The poor vines aren't handling the drought very well.",
+          "I know - good job there were showers yesterday."
+        ],
+        "trg": {
+          "correct": [
+            "Les pauvres vignes ne supportent pas bien la sécheresse.",
+            "Je sais - heureusement qu'il y a eu des averses hier."
+          ],
+          "incorrect": [
+            "Les pauvres vignes ne supportent pas bien la sécheresse.",
+            "Je sais - heureusement qu'il y avait des douches hier."
+          ]
+        }
+      },
+      {
+        "src": [
+          "We're going to end up stinking by the end of the weekend.",
+          "I know - good job there were showers yesterday."
+        ],
+        "trg": {
+          "correct": [
+            "On va finir par puer à la fin du weekend.",
+            "Je sais - heureusement qu'il y avait des douches hier."
+          ],
+          "incorrect": [
+            "On va finir par puer à la fin du weekend.",
+            "Je sais - heureusement qu'il y a eu des averses hier."
+          ]
+        }
+      }
+    ]
+  },
+  "84": {
+    "inspired by": [
+      "Im thirsty , Have you got any coke ' ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Can I get you some drinks, Sir?",
+          "Have you got any coke?"
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que vous voulez quelque chose à boire, Monsieur ?",
+            "Est-ce que vous avez du coca ?"
+          ],
+          "incorrect": [
+            "Est-ce que vous voulez quelque chose à boire, Monsieur ?",
+            "Tu as de la coke ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Fancy getting high this evening?",
+          "Have you got any coke?"
+        ],
+        "trg": {
+          "correct": [
+            "Ça te dit de se défoncer ce soir?",
+            "Tu as de la coke ?"
+          ],
+          "incorrect": [
+            "Ça te dit de se défoncer ce soir?",
+            "Est-ce que vous avez du coca ?"
+          ]
+        }
+      }
+    ]
+  },
+  "85": {
+    "inspired by": [
+      "You 're gonna have a fun weekend , Ma .",
+      "I am missing my soap ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Oh please hurry up.",
+          "I'm missing my soap."
+        ],
+        "trg": {
+          "correct": [
+            "Oh dépêche-toi s'il te plaît.",
+            "Je suis en train de rater mon soap."
+          ],
+          "incorrect": [
+            "Oh dépêche-toi s'il te plaît.",
+            "Mon savon me manque."
+          ]
+        }
+      },
+      {
+        "src": [
+          "How are you handling day-to-day life, hygiene and whatnot?",
+          "I'm missing my soap."
+        ],
+        "trg": {
+          "correct": [
+            "Comment tu gères le quotidien, l'hygiène et tout ça ?",
+            "Mon savon me manque."
+          ],
+          "incorrect": [
+            "Comment tu gères le quotidien, l'hygiène et tout ça ?",
+            "Je suis en train de rater mon soap."
+          ]
+        }
+      }
+    ]
+  },
+  "86": {
+    "inspired by": [
+      "How do you like playing with Paddy ?",
+      "I wonder what to do with so much dough ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "The pizza's in the oven, but there's still some dough left.",
+          "I've never seen so much dough!"
+        ],
+        "trg": {
+          "correct": [
+            "La pizza est dans le four, mais il reste de la pâte.",
+            "Je n'ai jamais vu autant de pâte !"
+          ],
+          "incorrect": [
+            "La pizza est dans le four, mais il reste de la pâte.",
+            "Je n'ai jamais vu autant de thune !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Here you are - you've earnt it.",
+          "I've never seen so much dough!"
+        ],
+        "trg": {
+          "correct": [
+            "Tiens - tu l'as mérité.",
+            "Je n'ai jamais vu autant de thune !"
+          ],
+          "incorrect": [
+            "Tiens - tu l'as mérité.",
+            "Je n'ai jamais vu autant de pâte !"
+          ]
+        }
+      }
+    ]
+  },
+  "87": {
+    "inspired by": [
+      "Oh , you draw beautifully .",
+      "Oh , this is just rough ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "That's a beautiful drawing you've done.",
+          "It's still quite rough."
+        ],
+        "trg": {
+          "correct": [
+            "C'est un très joli dessin que tu as fait là.",
+            "C'est encore un brouillon."
+          ],
+          "incorrect": [
+            "C'est un très joli dessin que tu as fait là.",
+            "C'est encore un peu mal famé."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Apparently the area's improved a lot since we were kids.",
+          "It's still quite rough."
+        ],
+        "trg": {
+          "correct": [
+            "Apparemment le quartier s'est beaucoup amélioré depuis qu'on était gosses.",
+            "C'est encore un peu mal famé."
+          ],
+          "incorrect": [
+            "Apparemment le quartier s'est beaucoup amélioré depuis qu'on était gosses.",
+            "C'est encore un brouillon."
+          ]
+        }
+      }
+    ]
+  },
+  "88": {
+    "inspired by": [
+      "Grab those .",
+      "Sorry I didn 't pluck them ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Are we having the chicken tonight?",
+          "I couldn't bring myself to pluck it."
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce qu'on mange le poulet ce soir?",
+            "Je n'ai pas eu le courage de le plumer."
+          ],
+          "incorrect": [
+            "Est-ce qu'on mange le poulet ce soir?",
+            "Je n'ai pas eu le courage de l'épiler."
+          ]
+        }
+      },
+      {
+        "src": [
+          "That hair's still there, you know.",
+          "I couldn't bring myself to pluck it."
+        ],
+        "trg": {
+          "correct": [
+            "Ce poil est toujours là, tu sais.",
+            "Je n'ai pas eu le courage de l'épiler."
+          ],
+          "incorrect": [
+            "Ce poil est toujours là, tu sais.",
+            "Je n'ai pas eu le courage de le plumer."
+          ]
+        }
+      }
+    ]
+  },
+  "89": {
+    "inspired by": [
+      "Well , what about it ?",
+      "It was a pretty plot , Charles , but I knew we 'd never get away with it "
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I'll really miss not having to tend to my carrots.",
+          "It was a nice plot, but nothing lasts forever."
+        ],
+        "trg": {
+          "correct": [
+            "Je regretterai ne plus avoir à m'occuper de mes carottes.",
+            "C'était une jolie parcelle, mais toute bonne chose a une fin."
+          ],
+          "incorrect": [
+            "Je regretterai ne plus avoir à m'occuper de mes carottes.",
+            "C'était une intrigue sympa, mais toute bonne chose a une fin."
+          ]
+        }
+      },
+      {
+        "src": [
+          "I don't know about you, but I was disappointed by the third book.",
+          "It was a nice plot, but nothing lasts forever."
+        ],
+        "trg": {
+          "correct": [
+            "Je ne sais pas pour toi, mais j'ai été déçue par le troisième volume.",
+            "C'était une intrigue sympa, mais toute bonne chose a une fin."
+          ],
+          "incorrect": [
+            "Je ne sais pas pour toi, mais j'ai été déçue par le troisième volume.",
+            "C'était une jolie parcelle, mais toute bonne chose a une fin."
+          ]
+        }
+      }
+    ]
+  },
+  "90": {
+    "inspired by": [
+      "Far from the crash site , down a ravine .",
+      "The canopy broke her fall "
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "She was found amongst broken branches, through relatively unscathed.",
+          "The canopy must have broken her fall."
+        ],
+        "trg": {
+          "correct": [
+            "On l'a trouvée parmi des branches cassées, mais relativement indemne.",
+            "La canopée a dû amortir sa chute."
+          ],
+          "incorrect": [
+            "On l'a trouvée parmi des branches cassées, mais relativement indemne.",
+            "L'auvent a dû amortir sa chute."
+          ]
+        }
+      },
+      {
+        "src": [
+          "She was lying in the conservatory, with a couple of bruises but otherwise ok.",
+          "The canopy must have broken her fall."
+        ],
+        "trg": {
+          "correct": [
+            "Elle était allongée dans la véranda, avec quelques bleus mais rien de plus.",
+            "L'auvent a dû amortir sa chute."
+          ],
+          "incorrect": [
+            "Elle était allongée dans la véranda, avec quelques bleus mais rien de plus.",
+            "La canopée a dû amortir sa chute."
+          ]
+        }
+      }
+    ]
+  },
+  "91": {
+    "inspired by": [
+      "No further questions .",
+      "You may step down , Mr Maryk ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Wait a second for the train to stop completely.",
+          "You can step down now."
+        ],
+        "trg": {
+          "correct": [
+            "Attendez une seconde que le train s'arrête complètement.",
+            "Vous pouvez descendre maintenant."
+          ],
+          "incorrect": [
+            "Attendez une seconde que le train s'arrête complètement.",
+            "Vous pouvez vous retirer maintenant."
+          ]
+        }
+      },
+      {
+        "src": [
+          "No further questions, your honour.",
+          "You can step down now."
+        ],
+        "trg": {
+          "correct": [
+            "Je n'ai plus de questions, Madame le Juge.",
+            "Vous pouvez vous retirer maintenant."
+          ],
+          "incorrect": [
+            "Je n'ai plus de questions, Madame le Juge.",
+            "Vous pouvez descendre maintenant."
+          ]
+        }
+      }
+    ]
+  },
+  "92": {
+    "inspired by": [
+      "How much do you want , $ 5,000 ?",
+      "Thats a little bit steep for a starter . "
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "So what do you say to £50?",
+          "It's a little steeper than I was expecting."
+        ],
+        "trg": {
+          "correct": [
+            "Qu'est-ce que vous en pensez de 50£ ?",
+            "C'est un peu plus cher que ce que je pensais."
+          ],
+          "incorrect": [
+            "Qu'est-ce que vous en pensez de 50£ ?",
+            "C'est un peu plus raide que ce que je pensais."
+          ]
+        }
+      },
+      {
+        "src": [
+          "How are your feet holding up?",
+          "It's a little steeper than I was expecting."
+        ],
+        "trg": {
+          "correct": [
+            "Comment vont tes pieds ?",
+            "C'est un peu plus raide que ce que je pensais."
+          ],
+          "incorrect": [
+            "Comment vont tes pieds ?",
+            "C'est un peu plus cher que ce que je pensais."
+          ]
+        }
+      }
+    ]
+  },
+  "93": {
+    "inspired by": [
+      "My God .",
+      "He 's barking ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "What the hell happened in there? How can he expect us to trust him?",
+          "He's barking !"
+        ],
+        "trg": {
+          "correct": [
+            "Mais qu'est-ce qui vient de se passer ? Comment s'attend-il à ce qu'on lui fasse confiance ?",
+            "Il est complètement cinglé."
+          ],
+          "incorrect": [
+            "Mais qu'est-ce qui vient de se passer ? Comment s'attend-il à ce qu'on lui fasse confiance ?",
+            "Il est en train d'aboyer."
+          ]
+        }
+      },
+      {
+        "src": [
+          "What about my dog?",
+          "He's barking !"
+        ],
+        "trg": {
+          "correct": [
+            "Qu’est-ce qu’il a mon chien ?",
+            "Il est en train d'aboyer."
+          ],
+          "incorrect": [
+            "Qu’est-ce qu’il a mon chien ?",
+            "Il est complètement cinglé."
+          ]
+        }
+      }
+    ]
+  },
+  "94": {
+    "inspired by": [
+      "FPrint Lab 's running a comparison .",
+      "Whatever happened with those metal cutters ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We just need to make a hole through here.",
+          "Pass me the cutters."
+        ],
+        "trg": {
+          "correct": [
+            "Nous devons juste faire un trou ici.",
+            "Passe-moi le cutter."
+          ],
+          "incorrect": [
+            "Nous devons juste faire un trou ici.",
+            "Passe-moi les emporte-pièces."
+          ]
+        }
+      },
+      {
+        "src": [
+          "The flour's down, the dough's rolled out.",
+          "Pass me the cutters."
+        ],
+        "trg": {
+          "correct": [
+            "La farine est mise, la pâte est étalée.",
+            "Passe-moi les emporte-pièces."
+          ],
+          "incorrect": [
+            "La farine est mise, la pâte est étalée.",
+            "Passe-moi le cutter."
+          ]
+        }
+      }
+    ]
+  },
+  "95": {
+    "inspired by": [
+      "There 's a redhead lives on the floor below me .",
+      "What a dish ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Have you seen the new guy on the first floor?",
+          "What a dish!"
+        ],
+        "trg": {
+          "correct": [
+            "Tu as vu le nouveau mec du première étage ?",
+            "Quel beau gosse !"
+          ],
+          "incorrect": [
+            "Tu as vu le nouveau mec du première étage ?",
+            "Quel plat !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "I've never seen anything so spectacularly yummy!",
+          "What a dish!"
+        ],
+        "trg": {
+          "correct": [
+            "Je n'ai jamais rien vu d'aussi incroyablement délicieux !",
+            "Quel plat !"
+          ],
+          "incorrect": [
+            "Je n'ai jamais rien vu d'aussi incroyablement délicieux !",
+            "Quel beau gosse !"
+          ]
+        }
+      }
+    ]
+  },
+  "96": {
+    "inspired by": [
+      "The coat 's a little too tight .",
+      "Too tight ?"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "I could go for something tighter round the hips...",
+          "It's tight enough if you ask me."
+        ],
+        "trg": {
+          "correct": [
+            "Je pourrais prendre quelque chose de plus serré aux hanches.",
+            "C'est déjà assez serré à mon avis."
+          ],
+          "incorrect": [
+            "Je pourrais prendre quelque chose de plus serré aux hanches.",
+            "C'est déjà assez tendu à mon avis."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Tighten the cord a little more.",
+          "It's tight enough if you ask me."
+        ],
+        "trg": {
+          "correct": [
+            "Tends un peu plus la corde.",
+            "C'est déjà assez tendu à mon avis."
+          ],
+          "incorrect": [
+            "Tends un peu plus la corde.",
+            "C'est déjà assez serré à mon avis."
+          ]
+        }
+      }
+    ]
+  },
+  "97": {
+    "inspired by": [
+      "A large gathering of mice for a reason .",
+      "Oh , a rally !"
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Neil's preparing some pamphlets.",
+          "Oh he'll be at the rally too!"
+        ],
+        "trg": {
+          "correct": [
+            "Neil prépare quelques tracts.",
+            "Oh, il va être à la manif aussi !"
+          ],
+          "incorrect": [
+            "Neil prépare quelques tracts.",
+            "Oh, il va être au rallye aussi !"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Neil would have preferred to be at the steering wheel rather than a spectator.",
+          "Oh he'll be at the rally too!"
+        ],
+        "trg": {
+          "correct": [
+            "Neil aurait préféré être au volant plutôt que spectateur.",
+            "Oh, il va être au rallye aussi !"
+          ],
+          "incorrect": [
+            "Neil aurait préféré être au volant plutôt que spectateur.",
+            "Oh, il va être à la manif aussi !"
+          ]
+        }
+      }
+    ]
+  },
+  "98": {
+    "inspired by": [
+      "I 've waited long enough .",
+      "I 'm going to take him on ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "But who's ever going to stand up to her?",
+          "If anyone can take her on, it's you."
+        ],
+        "trg": {
+          "correct": [
+            "Mais qui va lui tenir tête ?",
+            "Si quelqu'un peut l'affronter, c'est bien toi."
+          ],
+          "incorrect": [
+            "Mais qui va lui tenir tête ?",
+            "Si quelqu'un peut la prendre en charge, c'est bien toi."
+          ]
+        }
+      },
+      {
+        "src": [
+          "But in such a sorry state, who's going to look after her?",
+          "If anyone can take her on, it's you."
+        ],
+        "trg": {
+          "correct": [
+            "Mais dans un tel pitieux état, qui va s'en occuper ?",
+            "Si quelqu'un peut la prendre en charge, c'est bien toi."
+          ],
+          "incorrect": [
+            "Mais dans un tel pitieux état, qui va s'en occuper ?",
+            "Si quelqu'un peut l'affronter, c'est bien toi."
+          ]
+        }
+      }
+    ]
+  },
+  "99": {
+    "inspired by": [
+      "I 've grown to like both of you tremendously .",
+      "That 's so sweet ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "You've been so wonderful to me these past couple of months.",
+          "That is so sweet!"
+        ],
+        "trg": {
+          "correct": [
+            "Vous avez été tellement extraordinaires avec moi ces derniers mois.",
+            "C'est tellement adorable."
+          ],
+          "incorrect": [
+            "Vous avez été tellement extraordinaires avec moi ces derniers mois.",
+            "C'est tellement sucré."
+          ]
+        }
+      },
+      {
+        "src": [
+          "Try some - it's like a sugar explosion!",
+          "That is so sweet!"
+        ],
+        "trg": {
+          "correct": [
+            "Goûte - c'est comme une explosion de sucre !",
+            "C'est tellement sucré."
+          ],
+          "incorrect": [
+            "Goûte - c'est comme une explosion de sucre !",
+            "C'est tellement adorable."
+          ]
+        }
+      }
+    ]
+  },
+  "100": {
+    "inspired by": [
+      "Unless , of course , you have wings .",
+      "Like a bat ."
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Unless you want to spend your life upside-down.",
+          "Like a bat?"
+        ],
+        "trg": {
+          "correct": [
+            "Sauf si tu veux passer ta vie à l'envers.",
+            "Comme une chauve-souris ?"
+          ],
+          "incorrect": [
+            "Sauf si tu veux passer ta vie à l'envers.",
+            "Une batte, par exemple ?"
+          ]
+        }
+      },
+      {
+        "src": [
+          "Do you need anything for the game, son?",
+          "Like a bat?"
+        ],
+        "trg": {
+          "correct": [
+            "Est-ce que tu as besoin de quelque chose pour le match, fiston ?",
+            "Une batte, par exemple ?"
+          ],
+          "incorrect": [
+            "Est-ce que tu as besoin de quelque chose pour le match, fiston ?",
+            "Comme une chauve-souris ?"
+          ]
+        }
+      }
+    ]
+  }
+}

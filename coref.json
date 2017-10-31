@@ -1,0 +1,2602 @@
+{
+  "1": {
+    "inspired by": [
+      "The development has been underway for four years and will be completed within another two.",
+      "The area covers 12 acres and it will become one of London's premier residences."
+    ],
+    "src": [
+      "The buildings will be finished next week.",
+      "Soon they will be full of new residents."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Les bâtiments seront terminés la semaine prochaine.",
+          "Ils seront bientôt pleins de nouveaux résidents."
+        ],
+        "incorrect": [
+          "Les bâtiments seront terminés la semaine prochaine.",
+          "Elles seront bientôt pleines de nouveaux résidents."
+        ]
+      },
+      {
+        "correct": [
+          "Les immeubles seront terminés la semaine prochaine.",
+          "Ils seront bientôt pleins de nouveaux résidents."
+        ],
+        "incorrect": [
+          "Les immeubles seront terminés la semaine prochaine.",
+          "Elles seront bientôt pleines de nouveaux résidents."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les maisons seront terminées la semaine prochaine.",
+          "Elles seront bientôt pleines de nouveaux résidents."
+        ],
+        "incorrect": [
+          "Les maisons seront terminées la semaine prochaine.",
+          "Ils seront bientôt pleins de nouveaux résidents."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les résidences seront terminées la semaine prochaine.",
+          "Elles seront bientôt pleines de nouveaux résidents."
+        ],
+        "incorrect": [
+          "Les résidences seront terminées la semaine prochaine.",
+          "Ils seront bientôt pleins de nouveaux résidents."
+        ]
+      }
+    ]
+  },
+  "2": {
+    "inspired by": [
+      "Don't you think whoever built this thing thought of that?",
+      "Who knows what the hell they thought?"
+    ],
+    "src": [
+      "The people who did this is really despicable.",
+      "I know, how could they leave the room in this state?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Les individus qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
+        ],
+        "incorrect": [
+          "Les individus qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
+        ]
+      },
+      {
+        "correct": [
+          "Les personnes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
+        ],
+        "incorrect": [
+          "Les personnes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les hommes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
+        ],
+        "incorrect": [
+          "Les hommes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les femmes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
+        ],
+        "incorrect": [
+          "Les femmes qui ont fait ça sont vraiment ignobles.",
+          "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "inspired by": [
+      "You wouldn't believe it if I told you.",
+      "Hell, I don't believe it."
+    ],
+    "src": [
+      "Susan, you wouldn't believe such a story, would you?",
+      "No, I wouldn't want to believe it."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Susan, vous ne croiriez pas une histoire pareille, si ?",
+          "Non, je ne voudrais pas la croire."
+        ],
+        "incorrect": [
+          "Susan, vous ne croiriez pas une histoire pareille, si ?",
+          "Non, je ne voudrais pas le croire."
+        ]
+      },
+      {
+        "correct": [
+          "Susan, tu ne croirais pas un truc pareil, si ?",
+          "Non, je ne voudrais pas le croire."
+        ],
+        "incorrect": [
+          "Susan, tu ne croirais pas un truc pareil, si ?",
+          "Non, je ne voudrais pas la croire."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Susan, tu ne croirais pas une intrigue pareille, si ?",
+          "Non, je ne voudrais pas la croire."
+        ],
+        "incorrect": [
+          "Susan, tu ne croirais pas une intrigue pareille, si ?",
+          "Non, je ne voudrais pas le croire."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Susan, tu ne croirais pas un récit pareil, si ?",
+          "Non, je ne voudrais pas le croire."
+        ],
+        "incorrect": [
+          "Susan, tu ne croirais pas un récit pareil, si ?",
+          "Non, je ne voudrais pas la croire."
+        ]
+      }
+    ]
+  },
+  "4": {
+    "inspired by": [
+      "Do you have any idea how bad things are?",
+      "Yeah, and you keep on making them worse."
+    ],
+    "src": [
+      "So you see how bad the implications are.",
+      "Yes, they are really quite devastating."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Donc tu vois à quel point les implications sont mauvaises.",
+          "Oui, elles sont vraiment dévastatrices."
+        ],
+        "incorrect": [
+          "Donc tu vois à quel point les implications sont mauvaises.",
+          "Oui, ils sont vraiment dévastateurs."
+        ]
+      },
+      {
+        "correct": [
+          "Donc vous voyez à quel point les effets sont mauvais.",
+          "Oui, ils sont vraiment dévastateurs."
+        ],
+        "incorrect": [
+          "Donc vous voyez à quel point les effets sont mauvais.",
+          "Oui, elles sont vraiment dévastatrices."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Donc vous voyez à quel point les accusations sont mauvaises.",
+          "Oui, elles sont vraiment dévastatrices."
+        ],
+        "incorrect": [
+          "Donc vous voyez à quel point les accusations sont mauvaises.",
+          "Oui, ils sont vraiment dévastateurs."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Donc vous voyez à quel point les témoignages sont mauvais.",
+          "Oui, ils sont vraiment dévastateurs."
+        ],
+        "incorrect": [
+          "Donc vous voyez à quel point les témoignages sont mauvais.",
+          "Oui, elles sont vraiment dévastatrices."
+        ]
+      }
+    ]
+  },
+  "5": {
+    "inspired by": [
+      "I-I just know he wasn't like the others.",
+      "He was different."
+    ],
+    "src": [
+      "But how do you know the guy isn't going to turn out like all the others ?",
+      "This one's different."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Mais comment tu sais que le mec ne finira pas comme tous les autres ?",
+          "Celui-ci est différent."
+        ],
+        "incorrect": [
+          "Mais comment tu sais que le mec ne finira pas comme tous les autres ?",
+          "Celle-ci est différente."
+        ]
+      },
+      {
+        "correct": [
+          "Mais comment tu sais que l'homme ne finira pas comme tous les autres ?",
+          "Celui-ci est différent."
+        ],
+        "incorrect": [
+          "Mais comment tu sais que l'homme ne finira pas comme tous les autres ?",
+          "Celle-ci est différente."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Mais comment tu sais que la femme ne finira pas comme toutes les autres ?",
+          "Celle-ci est différente."
+        ],
+        "incorrect": [
+          "Mais comment tu sais que la femme ne finira pas comme toutes les autres ?",
+          "Celui-ci est différent."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Mais comment tu sais que la fille ne finira pas comme toutes les autres ?",
+          "Celle-ci est différente."
+        ],
+        "incorrect": [
+          "Mais comment tu sais que la fille ne finira pas comme toutes les autres ?",
+          "Celui-ci est différent."
+        ]
+      }
+    ]
+  },
+  "6": {
+    "inspired by": [
+      "Remember the time I was serving spaghetti and dropped it on the floor?",
+      "When those mugs weren't looking, I served it to 'em anyway."
+    ],
+    "src": [
+      "Remember when I got caught stealing those sweets as I was leaving the shop?",
+      "Well, whilst they were busy speaking to the policeman, my friend came and took them!"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
+        ],
+        "incorrect": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
+        ]
+      },
+      {
+        "correct": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
+        ],
+        "incorrect": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
+        ],
+        "incorrect": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
+        ],
+        "incorrect": [
+          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?",
+          "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "inspired by": [
+      "There's another one.",
+      "I'll take care of them."
+    ],
+    "src": [
+      "Oh, I hate flies. Look, there's another one!",
+      "Don't worry, I'll kill it for you."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ô je déteste les mouches. Regarde, il y en a une autre !",
+          "T'inquiète, je la tuerai pour toi."
+        ],
+        "incorrect": [
+          "Ô je déteste les mouches. Regarde, il y en a une autre !",
+          "T'inquiète, je le tuerai pour toi."
+        ]
+      },
+      {
+        "correct": [
+          "Ô je déteste les moucherons. Regarde, un autre !",
+          "T'inquiète, je le tuerai pour toi."
+        ],
+        "incorrect": [
+          "Ô je déteste les moucherons. Regarde, un autre !",
+          "T'inquiète, je la tuerai pour toi."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ô je déteste les papillons. Regarde, un autre !",
+          "Ne t'inquiète pas, je le tuerai pour toi."
+        ],
+        "incorrect": [
+          "Ô je déteste les papillons. Regarde, un autre !",
+          "Ne t'inquiète pas, je la tuerai pour toi."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ô je déteste les araignées. Regarde, une autre !",
+          "Ne t'inquiète pas, je la tuerai pour toi."
+        ],
+        "incorrect": [
+          "Ô je déteste les araignées. Regarde, une autre !",
+          "Ne t'inquiète pas, je le tuerai pour toi."
+        ]
+      }
+    ]
+  },
+  "8": {
+    "inspired by": [
+      "You call this a device?",
+      "You have to turn it off."
+    ],
+    "src": [
+      "You don't like my camera?",
+      "You're going to have to put it away, sir."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Vous n'appréciez pas mon appareil ?",
+          "Vous devez le ranger, Monsieur."
+        ],
+        "incorrect": [
+          "Vous n'appréciez pas mon appareil ?",
+          "Vous devez la ranger, Monsieur."
+        ]
+      },
+      {
+        "correct": [
+          "Vous n'appréciez pas ma caméra ?",
+          "Vous devez la ranger, Monsieur."
+        ],
+        "incorrect": [
+          "Vous n'appréciez pas ma caméra ?",
+          "Vous devez le ranger, Monsieur."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Vous n'appréciez pas mon chapeau ?",
+          "Vous devez le ranger, Monsieur."
+        ],
+        "incorrect": [
+          "Vous n'appréciez pas mon chapeau ?",
+          "Vous devez la ranger, Monsieur."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Vous n'appréciez pas ma perruche ?",
+          "Vous devez la ranger, Monsieur."
+        ],
+        "incorrect": [
+          "Vous n'appréciez pas ma perruche ?",
+          "Vous devez le ranger, Monsieur."
+        ]
+      }
+    ]
+  },
+  "9": {
+    "inspired by": [
+      "Ooh, uh, how about a scone?",
+      "I only got one, but I thought maybe we could split it."
+    ],
+    "src": [
+      "How about a sandwich ?",
+      "I only have one, but we could share it..."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Que penses-tu d'un sandwich ?",
+          "J'en ai qu'un, mais on pourrait le partager..."
+        ],
+        "incorrect": [
+          "Que penses-tu d'un sandwich ?",
+          "J'en ai qu'un, mais on pourrait la partager..."
+        ]
+      },
+      {
+        "correct": [
+          "Que penses-tu d'une baguette ?",
+          "J'en ai qu'un, mais on pourrait la partager..."
+        ],
+        "incorrect": [
+          "Que penses-tu d'une baguette ?",
+          "J'en ai qu'un, mais on pourrait le partager..."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Que penses-tu d'une galette ?",
+          "J'en ai qu'un, mais on pourrait la partager..."
+        ],
+        "incorrect": [
+          "Que penses-tu d'une galette ?",
+          "J'en ai qu'un, mais on pourrait le partager..."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Que penses-tu d'un biscuit ?",
+          "J'en ai qu'un, mais on pourrait le partager..."
+        ],
+        "incorrect": [
+          "Que penses-tu d'un biscuit ?",
+          "J'en ai qu'un, mais on pourrait la partager..."
+        ]
+      }
+    ]
+  },
+  "10": {
+    "inspired by": [
+      "Those are orthotics, okay?",
+      "Then why do they make you so tall?"
+    ],
+    "src": [
+      "They are trainers, okay?",
+      "How do they make you so tall?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ce sont des baskets, d'accord ?",
+          "Comment est-ce qu'elles te rendent si grand ?"
+        ],
+        "incorrect": [
+          "Ce sont des baskets, d'accord ?",
+          "Comment est-ce qu'ils te rendent si grand ?"
+        ]
+      },
+      {
+        "correct": [
+          "Ce sont des tennis, d'accord ?",
+          "Comment est-ce qu'elles te rendent si grand ?"
+        ],
+        "incorrect": [
+          "Ce sont des tennis, d'accord ?",
+          "Comment est-ce qu'ils te rendent si grand ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ce sont des talons, d'accord ?",
+          "Comment est-ce qu'ils te rendent si grand ?"
+        ],
+        "incorrect": [
+          "Ce sont des talons, d'accord ?",
+          "Comment est-ce qu'elles te rendent si grand ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ce sont des chaussons, d'accord ?",
+          "Comment est-ce qu'ils te rendent si grand ?"
+        ],
+        "incorrect": [
+          "Ce sont des chaussons, d'accord ?",
+          "Comment est-ce qu'elles te rendent si grand ?"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "inspired by": [
+      "Les demoiselles se l'arrachaient.",
+      "Sur la plage, il était plus dénudé qu'elles !"
+    ],
+    "src": [
+      "He was complaining about the women.",
+      "But he spends longer getting ready than them!"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Il se plaignait des femmes.",
+          "Mais il passe plus de temps à se préparer qu'elles !"
+        ],
+        "incorrect": [
+          "Il se plaignait des femmes.",
+          "Mais il passe plus de temps à se préparer qu'eux !"
+        ]
+      },
+      {
+        "correct": [
+          "Il se plaignait des dames.",
+          "Mais il passe plus de temps à se préparer qu'elles !"
+        ],
+        "incorrect": [
+          "Il se plaignait des dames.",
+          "Mais il passe plus de temps à se préparer qu'eux !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Il se plaignait des jeunes.",
+          "Mais il passe plus de temps à se préparer qu'eux !"
+        ],
+        "incorrect": [
+          "Il se plaignait des jeunes.",
+          "Mais il passe plus de temps à se préparer qu'elles !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Il se plaignait des hommes.",
+          "Mais il passe plus de temps à se préparer qu'eux !"
+        ],
+        "incorrect": [
+          "Il se plaignait des hommes.",
+          "Mais il passe plus de temps à se préparer qu'elles !"
+        ]
+      }
+    ]
+  },
+  "12": {
+    "inspired by": [
+      "'Cause our shower looks great.",
+      "Because I just cleaned it!"
+    ],
+    "src": [
+      "Those nails are in very good condition.",
+      "Well, I bought them this morning."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ces ongles sont en très bon état.",
+          "Bah, je les ai achetés ce matin."
+        ],
+        "incorrect": [
+          "Ces ongles sont en très bon état.",
+          "Bah, je les ai achetées ce matin."
+        ]
+      },
+      {
+        "correct": [
+          "Ces clous sont en très bon état.",
+          "Bah, je les ai achetés ce matin."
+        ],
+        "incorrect": [
+          "Ces clous sont en très bon état.",
+          "Bah, je les ai achetées ce matin."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ces vis sont en très bon état.",
+          "Bah, je les ai achetées ce matin."
+        ],
+        "incorrect": [
+          "Ces vis sont en très bon état.",
+          "Bah, je les ai achetés ce matin."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ces fleurs sont en très bon état.",
+          "Bah, je les ai achetées ce matin."
+        ],
+        "incorrect": [
+          "Ces fleurs sont en très bon état.",
+          "Bah, je les ai achetés ce matin."
+        ]
+      }
+    ]
+  },
+  "13": {
+    "inspired by": [
+      "We don't have a stage.",
+      "Then build it, Carl!"
+    ],
+    "src": [
+      "We don't have a table.",
+      "Then build one, Harry!"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Nous n'avons pas de table.",
+          "Alors construis-en une, Harry !"
+        ],
+        "incorrect": [
+          "Nous n'avons pas de table.",
+          "Alors construis-en un, Harry !"
+        ]
+      },
+      {
+        "correct": [
+          "Nous n'avons pas de bureau.",
+          "Alors construis-en un, Harry !"
+        ],
+        "incorrect": [
+          "Nous n'avons pas de bureau.",
+          "Alors construis-en une, Harry !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Nous n'avons pas de tableau.",
+          "Alors construis-en un, Harry !"
+        ],
+        "incorrect": [
+          "Nous n'avons pas de tableau.",
+          "Alors construis-en une, Harry !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Nous n'avons pas de tablette.",
+          "Alors construis-en une, Harry !"
+        ],
+        "incorrect": [
+          "Nous n'avons pas de tablette.",
+          "Alors construis-en un, Harry !"
+        ]
+      }
+    ]
+  },
+  "14": {
+    "inspired by": [
+      "And you believe that women should be empowered, right?",
+      "You're damn right they should."
+    ],
+    "src": [
+      "And do you believe that owls should be protected too?",
+      "Yes, they should!"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Et est-ce que tu crois que les hibous devraient être protégés aussi ?",
+          "Oui ils le devraient !"
+        ],
+        "incorrect": [
+          "Et est-ce que tu crois que les hibous devraient être protégés aussi ?",
+          "Oui elles le devraient !"
+        ]
+      },
+      {
+        "correct": [
+          "Et est-ce que tu crois que les chouettes devraient être protégées aussi ?",
+          "Oui elles le devraient !"
+        ],
+        "incorrect": [
+          "Et est-ce que tu crois que les chouettes devraient être protégées aussi ?",
+          "Oui ils le devraient !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Et est-ce que tu crois que les canards devraient être protégés aussi ?",
+          "Oui ils le devraient !"
+        ],
+        "incorrect": [
+          "Et est-ce que tu crois que les canards devraient être protégés aussi ?",
+          "Oui elles le devraient !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Et est-ce que tu crois que les biches devraient être protégées aussi ?",
+          "Oui elles le devraient !"
+        ],
+        "incorrect": [
+          "Et est-ce que tu crois que les biches devraient être protégées aussi ?",
+          "Oui ils le devraient !"
+        ]
+      }
+    ]
+  },
+  "15": {
+    "inspired by": [
+      "Can you authenticate these statements, ma'am?",
+      "Yes, they're my statements."
+    ],
+    "src": [
+      "Can you authenticate these letters, please?",
+      "Yes, they're mine."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Pourriez-vous authentifier ces lettres, s'il vous plaît ?",
+          "Oui, ce sont les miennes."
+        ],
+        "incorrect": [
+          "Pourriez-vous authentifier ces lettres, s'il vous plaît ?",
+          "Oui, ce sont les miens."
+        ]
+      },
+      {
+        "correct": [
+          "Pourriez-vous authentifier ces courriers, s'il vous plaît ?",
+          "Oui, ce sont les miens."
+        ],
+        "incorrect": [
+          "Pourriez-vous authentifier ces courriers, s'il vous plaît ?",
+          "Oui, ce sont les miennes."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Pourriez-vous authentifier ces signatures, s'il vous plaît ?",
+          "Oui, ce sont les miennes."
+        ],
+        "incorrect": [
+          "Pourriez-vous authentifier ces signatures, s'il vous plaît ?",
+          "Oui, ce sont les miens."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Pourriez-vous authentifier ces documents, s'il vous plaît ?",
+          "Oui, ce sont les miens."
+        ],
+        "incorrect": [
+          "Pourriez-vous authentifier ces documents, s'il vous plaît ?",
+          "Oui, ce sont les miennes."
+        ]
+      }
+    ]
+  },
+  "16": {
+    "inspired by": [
+      "That was a great drink.",
+      "I wish they still made that."
+    ],
+    "src": [
+      "It was a delicious ale.",
+      "So why don't they make it anymore?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "C'était une bière délicieuse.",
+          "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
+        ],
+        "incorrect": [
+          "C'était une bière délicieuse.",
+          "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
+        ]
+      },
+      {
+        "correct": [
+          "C'était une ale délicieuse.",
+          "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
+        ],
+        "incorrect": [
+          "C'était une ale délicieuse.",
+          "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "C'était un vin délicieux.",
+          "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
+        ],
+        "incorrect": [
+          "C'était un vin délicieux.",
+          "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "C'était un alcool délicieux.",
+          "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
+        ],
+        "incorrect": [
+          "C'était un alcool délicieux.",
+          "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
+        ]
+      }
+    ]
+  },
+  "17": {
+    "inspired by": [
+      "Isn't it funny how un-evolved humans are?",
+      "The whole purpose of life is to find love, and yet that's the thing that they're the worst at."
+    ],
+    "src": [
+      "Isn't it funny how stupid humans are?",
+      "The whole purpose of life is to find love and they are so bad at it."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "C'est drôle à quel point les humains sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et ils s'y prennent si mal."
+        ],
+        "incorrect": [
+          "C'est drôle à quel point les humains sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et elles s'y prennent si mal."
+        ]
+      },
+      {
+        "correct": [
+          "C'est drôle à quel point les gens sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et ils s'y prennent si mal."
+        ],
+        "incorrect": [
+          "C'est drôle à quel point les gens sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et elles s'y prennent si mal."
+        ]
+      },
+      {
+        "semi-correct": [
+          "C'est drôle à quel point les poules sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et elles s'y prennent si mal."
+        ],
+        "incorrect": [
+          "C'est drôle à quel point les poules sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et ils s'y prennent si mal."
+        ]
+      },
+      {
+        "semi-correct": [
+          "C'est drôle à quel point les personnes sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et elles le font si mal."
+        ],
+        "incorrect": [
+          "C'est drôle à quel point les personnes sont stupides, non ?",
+          "Le but même de la vie est de trouver l'amour et ils le font si mal."
+        ]
+      }
+    ]
+  },
+  "18": {
+    "inspired by": [
+      "Twelve years of dance lessons.",
+      "My mom said, \"One day, they would come in handy.\""
+    ],
+    "src": [
+      "All those lessons...",
+      "They'll be useful one day."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Tous ces cours...",
+          "Ils seront utiles un jour."
+        ],
+        "incorrect": [
+          "Tous ces cours...",
+          "Elles seront utiles un jour."
+        ]
+      },
+      {
+        "correct": [
+          "Toutes ces leçons...",
+          "Elles seront utiles un jour."
+        ],
+        "incorrect": [
+          "Toutes ces leçons...",
+          "Ils seront utiles un jour."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Toutes ces séances...",
+          "Elles seront utiles un jour."
+        ],
+        "incorrect": [
+          "Toutes ces séances...",
+          "Ils seront utiles un jour."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Tous ces enseignements...",
+          "Ils seront utiles un jour."
+        ],
+        "incorrect": [
+          "Tous ces enseignements...",
+          "Elles seront utiles un jour."
+        ]
+      }
+    ]
+  },
+  "19": {
+    "inspired by": [
+      "My parents send me this care package crap once a week.",
+      "Yeah, my parents, they sent me a care package too."
+    ],
+    "src": [
+      "My parents send me cake every week.",
+      "Oh, yours do too!"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Mes parents m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiens aussi !"
+        ],
+        "incorrect": [
+          "Mes parents m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiennes aussi !"
+        ]
+      },
+      {
+        "correct": [
+          "Mon père et ma mère m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiens aussi !"
+        ],
+        "incorrect": [
+          "Mon père et ma mère m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiennes aussi !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Mes proches m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiennes aussi !"
+        ],
+        "incorrect": [
+          "Mes proches m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiens aussi !"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Mes sœurs m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiennes aussi !"
+        ],
+        "incorrect": [
+          "Mes sœurs m'envoient du gâteau toutes les semaines.",
+          "Ô, les tiens aussi !"
+        ]
+      }
+    ]
+  },
+  "20": {
+    "inspired by": [
+      "Well, obviously, we can't distribute these to the media.",
+      "If they're legit, that would spook the kidnappers."
+    ],
+    "src": [
+      "We can't let the press know about the photos.",
+      "They would love to get their hands on them."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Nous ne pouvons pas informer les médias de l'existence des photos.",
+          "Elles adoreraient les avoir."
+        ],
+        "incorrect": [
+          "Nous ne pouvons pas informer les médias de l'existence des photos.",
+          "Ils adoreraient les avoir."
+        ]
+      },
+      {
+        "correct": [
+          "Nous ne pouvons pas informer les journalistes de l'existence des photos.",
+          "Ils adoreraient les avoir."
+        ],
+        "incorrect": [
+          "Nous ne pouvons pas informer les journalistes de l'existence des photos.",
+          "Elles adoreraient les avoir."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Nous ne pouvons pas informer les femmes de l'existence des photos.",
+          "Elles adoreraient les avoir."
+        ],
+        "incorrect": [
+          "Nous ne pouvons pas informer les femmes de l'existence des photos.",
+          "Ils adoreraient les avoir."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Nous ne pouvons pas informer les hommes de l'existence des photos.",
+          "Ils adoreraient les avoir."
+        ],
+        "incorrect": [
+          "Nous ne pouvons pas informer les hommes de l'existence des photos.",
+          "Elles adoreraient les avoir."
+        ]
+      }
+    ]
+  },
+  "21": {
+    "inspired by": [
+      "It's been a while since I've gone to the beach.",
+      "It feels so good to finally see it!"
+    ],
+    "src": [
+      "It's been a while since I last went to the river.",
+      "It feels great to finally see it."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ça fait longtemps que je n'ai pas été à la rivière",
+          "C'est chouette de la voir enfin."
+        ],
+        "incorrect": [
+          "Ça fait longtemps que je n'ai pas été à la rivière",
+          "C'est chouette de le voir enfin."
+        ]
+      },
+      {
+        "correct": [
+          "Ça fait longtemps que je n'ai pas été au fleuve",
+          "C'est chouette de le voir enfin."
+        ],
+        "incorrect": [
+          "Ça fait longtemps que je n'ai pas été au fleuve",
+          "C'est chouette de la voir enfin."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ça fait longtemps que je n'ai pas été à la piscine",
+          "C'est chouette de la voir enfin."
+        ],
+        "incorrect": [
+          "Ça fait longtemps que je n'ai pas été à la piscine",
+          "C'est chouette de le voir enfin."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ça fait longtemps que je n'ai pas été au cinéma",
+          "C'est chouette de le voir enfin."
+        ],
+        "incorrect": [
+          "Ça fait longtemps que je n'ai pas été au cinéma",
+          "C'est chouette de la voir enfin."
+        ]
+      }
+    ]
+  },
+  "22": {
+    "inspired by": [
+      "I brought your cash.",
+      "I'm just reconsidering whether I want to give it to you."
+    ],
+    "src": [
+      "I brought you your money.",
+      "Where is it then?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Je vous ai amené votre argent.",
+          "Alors il est où ?"
+        ],
+        "incorrect": [
+          "Je vous ai amené votre argent.",
+          "Alors elle est où ?"
+        ]
+      },
+      {
+        "correct": [
+          "Je vous ai amené votre thune.",
+          "Alors elle est où ?"
+        ],
+        "incorrect": [
+          "Je vous ai amené votre thune.",
+          "Alors il est où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je vous ai amené votre monnaie.",
+          "Alors elle est où ?"
+        ],
+        "incorrect": [
+          "Je vous ai amené votre monnaie.",
+          "Alors il est où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je vous ai amené votre paiement.",
+          "Alors il est où ?"
+        ],
+        "incorrect": [
+          "Je vous ai amené votre paiement.",
+          "Alors elle est où ?"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "inspired by": [
+      "So you took this from his trash?",
+      "I had to wait till he put it out."
+    ],
+    "src": [
+      "So you took this from his bag?",
+      "Yes, he left it at home."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Alors tu l'as pris dans son sac ?",
+          "Oui, il l'a laissé à la maison."
+        ],
+        "incorrect": [
+          "Alors tu l'as pris dans son sac ?",
+          "Oui, il l'a laissée à la maison."
+        ]
+      },
+      {
+        "correct": [
+          "Alors tu l'as pris dans sa sacoche ?",
+          "Oui, il l'a laissée à la maison."
+        ],
+        "incorrect": [
+          "Alors tu l'as pris dans sa sacoche ?",
+          "Oui, il l'a laissé à la maison."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Alors tu l'as pris dans son bagage ?",
+          "Oui, il l'a laissé à la maison."
+        ],
+        "incorrect": [
+          "Alors tu l'as pris dans son bagage ?",
+          "Oui, il l'a laissée à la maison."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Alors tu l'as pris dans sa valise ?",
+          "Oui, il l'a laissée à la maison."
+        ],
+        "incorrect": [
+          "Alors tu l'as pris dans sa valise ?",
+          "Oui, il l'a laissé à la maison."
+        ]
+      }
+    ]
+  },
+  "24": {
+    "inspired by": [
+      "Which means there is a pattern.",
+      "And if he figured it out, so can we."
+    ],
+    "src": [
+      "Which means that there is an answer.",
+      "And if he found it, so can we."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ce qui veut dire qu'il y a une solution.",
+          "Et s'il l'a trouvée, alors, nous aussi, on peut."
+        ],
+        "incorrect": [
+          "Ce qui veut dire qu'il y a une solution.",
+          "Et s'il l'a trouvé, alors, nous aussi, on peut."
+        ]
+      },
+      {
+        "correct": [
+          "Ce qui veut dire qu'il y a une réponse.",
+          "Et s'il l'a trouvée, alors, nous aussi, on peut."
+        ],
+        "incorrect": [
+          "Ce qui veut dire qu'il y a une réponse.",
+          "Et s'il l'a trouvé, alors, nous aussi, on peut."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ce qui veut dire qu'il y a un indice.",
+          "Et s'il l'a trouvé, alors, nous aussi, on peut."
+        ],
+        "incorrect": [
+          "Ce qui veut dire qu'il y a un indice.",
+          "Et s'il l'a trouvée, alors, nous aussi, on peut."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ce qui veut dire qu'il y a un truc.",
+          "Et s'il l'a trouvé, alors, nous aussi, on peut."
+        ],
+        "incorrect": [
+          "Ce qui veut dire qu'il y a un truc.",
+          "Et s'il l'a trouvée, alors, nous aussi, on peut."
+        ]
+      }
+    ]
+  },
+  "25": {
+    "inspired by": [
+      "He tells you to cover your head.",
+      "If he dislikes it, he shouldn't look at it."
+    ],
+    "src": [
+      "I think you should cover your head.",
+      "If you don't like it, don't look at it."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Je pense que tu devrais couvrir ta tête.",
+          "Si tu ne l'aimes pas, ne la regarde pas."
+        ],
+        "incorrect": [
+          "Je pense que tu devrais couvrir ta tête.",
+          "Si tu ne l'aimes pas, ne le regarde pas."
+        ]
+      },
+      {
+        "correct": [
+          "Je pense que tu devrais couvrir ton crâne.",
+          "Si tu ne l'aimes pas, ne le regarde pas."
+        ],
+        "incorrect": [
+          "Je pense que tu devrais couvrir ton crâne.",
+          "Si tu ne l'aimes pas, ne la regarde pas."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je pense que tu devrais couvrir ton visage.",
+          "Si tu ne l'aimes pas, ne le regarde pas."
+        ],
+        "incorrect": [
+          "Je pense que tu devrais couvrir ton visage.",
+          "Si tu ne l'aimes pas, ne la regarde pas."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je pense que tu devrais couvrir ta figure.",
+          "Si tu ne l'aimes pas, ne la regarde pas."
+        ],
+        "incorrect": [
+          "Je pense que tu devrais couvrir ta figure.",
+          "Si tu ne l'aimes pas, ne le regarde pas."
+        ]
+      }
+    ]
+  },
+  "26": {
+    "inspired by": [
+      "The brain chip is in there?",
+      "I told you it was small."
+    ],
+    "src": [
+      "The ring is in there?",
+      "I told you it was small."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "La bague est là-dedans ?",
+          "Je t'ai dit qu'elle était petite."
+        ],
+        "incorrect": [
+          "La bague est là-dedans ?",
+          "Je t'ai dit qu'il était petit."
+        ]
+      },
+      {
+        "correct": [
+          "L'anneau est là-dedans ?",
+          "Je t'ai dit qu'il était petit."
+        ],
+        "incorrect": [
+          "L'anneau est là-dedans ?",
+          "Je t'ai dit qu'elle était petite."
+        ]
+      },
+      {
+        "semi-correct": [
+          "La broche est là-dedans ?",
+          "Je t'ai dit qu'elle était petite."
+        ],
+        "incorrect": [
+          "La broche est là-dedans ?",
+          "Je t'ai dit qu'il était petit."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Le collier est là-dedans ?",
+          "Je t'ai dit qu'il était petit."
+        ],
+        "incorrect": [
+          "Le collier est là-dedans ?",
+          "Je t'ai dit qu'elle était petite."
+        ]
+      }
+    ]
+  },
+  "27": {
+    "inspired by": [
+      "You ruined my weight belt.",
+      "You destroyed it."
+    ],
+    "src": [
+      "You ruined my jacket.",
+      "It was already destroyed."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Tu as détruit ma veste.",
+          "Elle était déjà détruite."
+        ],
+        "incorrect": [
+          "Tu as détruit ma veste.",
+          "Il était déjà détruit."
+        ]
+      },
+      {
+        "correct": [
+          "Tu as détruit mon manteau",
+          "Il était déjà détruit."
+        ],
+        "incorrect": [
+          "Tu as détruit mon manteau",
+          "Elle était déjà détruite."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Tu as détruit mon pull",
+          "Il était déjà détruit."
+        ],
+        "incorrect": [
+          "Tu as détruit mon pull",
+          "Elle était déjà détruite."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Tu as détruit ma chemise",
+          "Elle était déjà détruite."
+        ],
+        "incorrect": [
+          "Tu as détruit ma chemise",
+          "Il était déjà détruit."
+        ]
+      }
+    ]
+  },
+  "28": {
+    "inspired by": [
+      "That is my hat, man.",
+      "Why you take it from me, man?"
+    ],
+    "src": [
+      "Here's your hat",
+      "Why did you take it from me?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Voici ton chapeau.",
+          "Pourquoi tu me l'as pris ?"
+        ],
+        "incorrect": [
+          "Voici ton chapeau.",
+          "Pourquoi tu me l'as prise ?"
+        ]
+      },
+      {
+        "correct": [
+          "Voici ta casquette.",
+          "Pourquoi tu me l'as prise ?"
+        ],
+        "incorrect": [
+          "Voici ta casquette.",
+          "Pourquoi tu me l'as pris ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Voici ta toque.",
+          "Pourquoi tu me l'as prise ?"
+        ],
+        "incorrect": [
+          "Voici ta toque.",
+          "Pourquoi tu me l'as pris ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Voici ton postiche.",
+          "Pourquoi tu me l'as pris ?"
+        ],
+        "incorrect": [
+          "Voici ton postiche.",
+          "Pourquoi tu me l'as prise ?"
+        ]
+      }
+    ]
+  },
+  "29": {
+    "inspired by": [
+      "Who taught you how to carry a sharp knife anyway, huh?",
+      "You don't just carry it down like this."
+    ],
+    "src": [
+      "Who taught you how to carry a knife?",
+      "You don't just carry it like this."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Qui t'a appris comment tenir un couteau ?",
+          "Tu ne le tiens pas juste comme ça."
+        ],
+        "incorrect": [
+          "Qui t'a appris comment tenir un couteau ?",
+          "Tu ne la tiens pas juste comme ça."
+        ]
+      },
+      {
+        "correct": [
+          "Qui t'a appris comment tenir une lame ?",
+          "Tu ne la tiens pas juste comme ça."
+        ],
+        "incorrect": [
+          "Qui t'a appris comment tenir une lame ?",
+          "Tu ne le tiens pas juste comme ça."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Qui t'a appris comment tenir une sabre ?",
+          "Tu ne la tiens pas juste comme ça."
+        ],
+        "incorrect": [
+          "Qui t'a appris comment tenir une sabre ?",
+          "Tu ne le tiens pas juste comme ça."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Qui t'a appris comment tenir un pistolet ?",
+          "Tu ne le tiens pas juste comme ça."
+        ],
+        "incorrect": [
+          "Qui t'a appris comment tenir un pistolet ?",
+          "Tu ne la tiens pas juste comme ça."
+        ]
+      }
+    ]
+  },
+  "30": {
+    "inspired by": [
+      "The car's a piece of crap.",
+      "Why do you love it so much?"
+    ],
+    "src": [
+      "The bike's so ugly.",
+      "Why do you like it so much?."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ce vélo est tellement moche.",
+          "Pourquoi il te plaît autant ?"
+        ],
+        "incorrect": [
+          "Ce vélo est tellement moche.",
+          "Pourquoi elle te plaît autant ?"
+        ]
+      },
+      {
+        "correct": [
+          "Cette moto est tellement moche.",
+          "Pourquoi elle te plaît autant ?"
+        ],
+        "incorrect": [
+          "Cette moto est tellement moche.",
+          "Pourquoi il te plaît autant ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Cette voiture est tellement moche.",
+          "Pourquoi elle te plaît autant ?"
+        ],
+        "incorrect": [
+          "Cette voiture est tellement moche.",
+          "Pourquoi il te plaît autant ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ce bateau est tellement moche.",
+          "Pourquoi il te plaît autant ?"
+        ],
+        "incorrect": [
+          "Ce bateau est tellement moche.",
+          "Pourquoi elle te plaît autant ?"
+        ]
+      }
+    ]
+  },
+  "31": {
+    "inspired by": [
+      "I can't go in this dress.",
+      "Can you mend it?"
+    ],
+    "src": [
+      "I can't put these pants on.",
+      "Can you mend them?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Je ne peux pas mettre ce pantalon.",
+          "Est-ce que tu peux le réparer ?"
+        ],
+        "incorrect": [
+          "Je ne peux pas mettre ce pantalon.",
+          "Est-ce que tu peux la réparer ?"
+        ]
+      },
+      {
+        "correct": [
+          "Je ne peux pas mettre ce slip.",
+          "Est-ce que tu peux le réparer ?"
+        ],
+        "incorrect": [
+          "Je ne peux pas mettre ce slip.",
+          "Est-ce que tu peux la réparer ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je ne peux pas mettre cette chemise.",
+          "Est-ce que tu peux la réparer ?"
+        ],
+        "incorrect": [
+          "Je ne peux pas mettre cette chemise.",
+          "Est-ce que tu peux le réparer ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je ne peux pas mettre cette jupe.",
+          "Est-ce que tu peux la réparer ?"
+        ],
+        "incorrect": [
+          "Je ne peux pas mettre cette jupe.",
+          "Est-ce que tu peux le réparer ?"
+        ]
+      }
+    ]
+  },
+  "32": {
+    "inspired by": [
+      "She likes to paint the patients.",
+      "I paint them all."
+    ],
+    "src": [
+      "She likes to paint the nurses.",
+      "I paint them all."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Elle aime peindre les infirmiers.",
+          "Je les peins tous."
+        ],
+        "incorrect": [
+          "Elle aime peindre les infirmiers.",
+          "Je les peins toutes."
+        ]
+      },
+      {
+        "correct": [
+          "Elle aime peindre les infirmières.",
+          "Je les peins toutes."
+        ],
+        "incorrect": [
+          "Elle aime peindre les infirmières.",
+          "Je les peins tous."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Elle aime peindre les médecins.",
+          "Je les peins tous."
+        ],
+        "incorrect": [
+          "Elle aime peindre les médecins.",
+          "Je les peins toutes."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Elle aime peindre les nourrices.",
+          "Je les peins toutes."
+        ],
+        "incorrect": [
+          "Elle aime peindre les nourrices.",
+          "Je les peins tous."
+        ]
+      }
+    ]
+  },
+  "33": {
+    "inspired by": [
+      "There must be spirits in your life.",
+      "Well, fortunately, they leave me alone."
+    ],
+    "src": [
+      "There must be ghosts in your life",
+      "Fortunately, they leave me alone."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Il doit y avoir des esprits dans votre vie.",
+          "Heureusement, ils me laissent tranquille."
+        ],
+        "incorrect": [
+          "Il doit y avoir des esprits dans votre vie.",
+          "Heureusement, elles me laissent tranquille."
+        ]
+      },
+      {
+        "correct": [
+          "Il doit y avoir des fantômes dans votre vie.",
+          "Heureusement, ils me laissent tranquille."
+        ],
+        "incorrect": [
+          "Il doit y avoir des fantômes dans votre vie.",
+          "Heureusement, elles me laissent tranquille."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Il doit y avoir des sorcières dans votre vie.",
+          "Heureusement, elles me laissent tranquille."
+        ],
+        "incorrect": [
+          "Il doit y avoir des sorcières dans votre vie.",
+          "Heureusement, ils me laissent tranquille."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Il doit y avoir des visions dans votre vie.",
+          "Heureusement, elles me laissent tranquille."
+        ],
+        "incorrect": [
+          "Il doit y avoir des visions dans votre vie.",
+          "Heureusement, ils me laissent tranquille."
+        ]
+      }
+    ]
+  },
+  "34": {
+    "inspired by": [
+      "Well, I want a new drug.",
+      "Okay, at least you've been using it."
+    ],
+    "src": [
+      "So I want a new drug.",
+      "Ok, at least you've been taking it."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Donc je veux une nouvelle drogue.",
+          "Au moins vous la prenez."
+        ],
+        "incorrect": [
+          "Donc je veux une nouvelle drogue.",
+          "Au moins vous le prenez."
+        ]
+      },
+      {
+        "correct": [
+          "Donc je veux un nouveau médicament.",
+          "Au moins vous le prenez."
+        ],
+        "incorrect": [
+          "Donc je veux un nouveau médicament.",
+          "Au moins vous la prenez."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Donc je veux un nouveau somnifère.",
+          "Au moins vous le prenez."
+        ],
+        "incorrect": [
+          "Donc je veux un nouveau somnifère.",
+          "Au moins vous la prenez."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Donc je veux une nouvelle pilule.",
+          "Au moins vous la prenez."
+        ],
+        "incorrect": [
+          "Donc je veux une nouvelle pilule.",
+          "Au moins vous le prenez."
+        ]
+      }
+    ]
+  },
+  "35": {
+    "inspired by": [
+      "Why are you singing that song?",
+      "I was told to sing it near you."
+    ],
+    "src": [
+      "Why are you singing that song?",
+      "I wanted to sing it to you."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Pourquoi tu chantes cette chanson ?",
+          "Je voulais te la chanter."
+        ],
+        "incorrect": [
+          "Pourquoi tu chantes cette chanson ?",
+          "Je voulais te le chanter."
+        ]
+      },
+      {
+        "correct": [
+          "Pourquoi tu chantes ce chant ?",
+          "Je voulais te le chanter."
+        ],
+        "incorrect": [
+          "Pourquoi tu chantes ce chant ?",
+          "Je voulais te la chanter."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Pourquoi tu chantes cette mélodie ?",
+          "Je voulais te la chanter."
+        ],
+        "incorrect": [
+          "Pourquoi tu chantes cette mélodie ?",
+          "Je voulais te le chanter."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Pourquoi tu chantes cet air ?",
+          "Je voulais te le chanter."
+        ],
+        "incorrect": [
+          "Pourquoi tu chantes cet air ?",
+          "Je voulais te la chanter."
+        ]
+      }
+    ]
+  },
+  "36": {
+    "inspired by": [
+      "They're good-looking kids, man.",
+      "Yeah, they're gonna love you."
+    ],
+    "src": [
+      "They're wonderful kids you've got there.",
+      "Yeah, they're gonna love you."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Vous aves des gamines merveilleuses.",
+          "Ouais, elles vont t'adorer, toi."
+        ],
+        "incorrect": [
+          "Vous aves des gamines merveilleuses.",
+          "Ouais, ils vont t'adorer, toi."
+        ]
+      },
+      {
+        "correct": [
+          "Vous aves des enfants merveilleux.",
+          "Ouais, ils vont t'adorer, toi."
+        ],
+        "incorrect": [
+          "Vous aves des enfants merveilleux.",
+          "Ouais, elles vont t'adorer, toi."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Vous aves des tantes merveilleuses.",
+          "Ouais, elles vont t'adorer, toi."
+        ],
+        "incorrect": [
+          "Vous aves des tantes merveilleuses.",
+          "Ouais, ils vont t'adorer, toi."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Vous aves des parents merveilleux.",
+          "Ouais, ils vont t'adorer, toi."
+        ],
+        "incorrect": [
+          "Vous aves des parents merveilleux.",
+          "Ouais, elles vont t'adorer, toi."
+        ]
+      }
+    ]
+  },
+  "37": {
+    "inspired by": [
+      "Just potatoes.",
+      "You can't really eat them by themselves."
+    ],
+    "src": [
+      "Just potatoes?",
+      "They must be cooked first."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Juste des pommes de terre",
+          "Elles doivent d'abord être cuites."
+        ],
+        "incorrect": [
+          "Juste des pommes de terre",
+          "Ils doivent d'abord être cuits."
+        ]
+      },
+      {
+        "correct": [
+          "Juste des patates",
+          "Elles doivent d'abord être cuites."
+        ],
+        "incorrect": [
+          "Juste des patates",
+          "Ils doivent d'abord être cuits."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Juste des navets",
+          "Ils doivent d'abord être cuits."
+        ],
+        "incorrect": [
+          "Juste des navets",
+          "Elles doivent d'abord être cuites."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Juste des oignons",
+          "Ils doivent d'abord être cuits."
+        ],
+        "incorrect": [
+          "Juste des oignons",
+          "Elles doivent d'abord être cuites."
+        ]
+      }
+    ]
+  },
+  "38": {
+    "inspired by": [
+      "Just chips.",
+      "You can't really eat them by themselves."
+    ],
+    "src": [
+      "Just chips.",
+      "But you can't really eat them by themselves."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Juste des chips.",
+          "Mais tu ne peux pas vraiment les manger toutes seules."
+        ],
+        "incorrect": [
+          "Juste des chips.",
+          "Mais tu ne peux pas vraiment les manger tous seuls."
+        ]
+      },
+      {
+        "correct": [
+          "Juste des frites.",
+          "Mais tu ne peux pas vraiment les manger toutes seules."
+        ],
+        "incorrect": [
+          "Juste des frites.",
+          "Mais tu ne peux pas vraiment les manger tous seuls."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Juste des crackers.",
+          "Mais tu ne peux pas vraiment les manger tous seuls."
+        ],
+        "incorrect": [
+          "Juste des crackers.",
+          "Mais tu ne peux pas vraiment les manger toutes seules."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Juste des calissons.",
+          "Mais tu ne peux pas vraiment les manger tous seuls."
+        ],
+        "incorrect": [
+          "Juste des calissons.",
+          "Mais tu ne peux pas vraiment les manger toutes seules."
+        ]
+      }
+    ]
+  },
+  "39": {
+    "inspired by": [
+      "You don't have to wash the containers.",
+      "Just bring them back to me, please."
+    ],
+    "src": [
+      "Should I wash the plate?",
+      "No, just bring it here, please."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Est-ce que je devrais laver l'assiette ?",
+          "Non, amène-la juste ici, s'il te plaît."
+        ],
+        "incorrect": [
+          "Est-ce que je devrais laver l'assiette ?",
+          "Non, amène-le juste ici, s'il te plaît."
+        ]
+      },
+      {
+        "correct": [
+          "Est-ce que je devrais laver la plaque?",
+          "Non, amène-la juste ici, s'il te plaît."
+        ],
+        "incorrect": [
+          "Est-ce que je devrais laver la plaque?",
+          "Non, amène-le juste ici, s'il te plaît."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Est-ce que je devrais laver le bol?",
+          "Non, amène-le juste ici, s'il te plaît."
+        ],
+        "incorrect": [
+          "Est-ce que je devrais laver le bol?",
+          "Non, amène-la juste ici, s'il te plaît."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Est-ce que je devrais laver le plateau?",
+          "Non, amène-le juste ici, s'il te plaît."
+        ],
+        "incorrect": [
+          "Est-ce que je devrais laver le plateau?",
+          "Non, amène-la juste ici, s'il te plaît."
+        ]
+      }
+    ]
+  },
+  "40": {
+    "inspired by": [
+      "You make these yourself?",
+      "You don't make pictures. You draw them."
+    ],
+    "src": [
+      "Did you create these pictures?",
+      "I drew them, yes."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Est-ce que c'est toi qui a créé ces dessins ?",
+          "Je les ai faits, oui."
+        ],
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces dessins ?",
+          "Je les ai faites, oui."
+        ]
+      },
+      {
+        "correct": [
+          "Est-ce que c'est toi qui a créé ces images ?",
+          "Je les ai faites, oui."
+        ],
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces images ?",
+          "Je les ai faits, oui."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Est-ce que c'est toi qui a créé ces tableaux ?",
+          "Je les ai faits, oui."
+        ],
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces tableaux ?",
+          "Je les ai faites, oui."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Est-ce que c'est toi qui a créé ces photos ?",
+          "Je les ai faites, oui."
+        ],
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces photos ?",
+          "Je les ai faits, oui."
+        ]
+      }
+    ]
+  },
+  "41": {
+    "inspired by": [
+      "A patient gave that to me.",
+      "Don't know why I'm hanging on to it."
+    ],
+    "src": [
+      "A patient gave me these trinkets.",
+      "I don't know why I kept them."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Un patient m'a donné ces babioles.",
+          "Je ne sais pas pourquoi je les ai gardées."
+        ],
+        "incorrect": [
+          "Un patient m'a donné ces babioles.",
+          "Je ne sais pas pourquoi je les ai gardés."
+        ]
+      },
+      {
+        "correct": [
+          "Un patient m'a donné ces bibelots.",
+          "Je ne sais pas pourquoi je les ai gardés."
+        ],
+        "incorrect": [
+          "Un patient m'a donné ces bibelots.",
+          "Je ne sais pas pourquoi je les ai gardées."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Un patient m'a donné ces porte-bonheurs.",
+          "Je ne sais pas pourquoi je les ai gardés."
+        ],
+        "incorrect": [
+          "Un patient m'a donné ces porte-bonheurs.",
+          "Je ne sais pas pourquoi je les ai gardées."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Un patient m'a donné ces décorations.",
+          "Je ne sais pas pourquoi je les ai gardées."
+        ],
+        "incorrect": [
+          "Un patient m'a donné ces décorations.",
+          "Je ne sais pas pourquoi je les ai gardés."
+        ]
+      }
+    ]
+  },
+  "42": {
+    "inspired by": [
+      "A sort of cloud, yeah.",
+      "And what's happening to it?"
+    ],
+    "src": [
+      "A sort of mist.",
+      "And where's it coming from?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Une sorte de brume.",
+          "Et elle vient d'où ?"
+        ],
+        "incorrect": [
+          "Une sorte de brume.",
+          "Et il vient d'où ?"
+        ]
+      },
+      {
+        "correct": [
+          "Une sorte de buée.",
+          "Et elle vient d'où ?"
+        ],
+        "incorrect": [
+          "Une sorte de buée.",
+          "Et il vient d'où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Une sorte de nuage.",
+          "Et il vient d'où ?"
+        ],
+        "incorrect": [
+          "Une sorte de nuage.",
+          "Et elle vient d'où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Une sorte de brouillard.",
+          "Et il vient d'où ?"
+        ],
+        "incorrect": [
+          "Une sorte de brouillard.",
+          "Et elle vient d'où ?"
+        ]
+      }
+    ]
+  },
+  "43": {
+    "inspired by": [
+      "I made this CD for you like five years ago.",
+      "I can't believe you're still listening to it."
+    ],
+    "src": [
+      "I made that book for you ten years ago.",
+      "And I read it often."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "J'ai fait ce livre pour toi il y a dix ans.",
+          "Et je le lis souvent."
+        ],
+        "incorrect": [
+          "J'ai fait ce livre pour toi il y a dix ans.",
+          "Et je la lis souvent."
+        ]
+      },
+      {
+        "correct": [
+          "J'ai fait ce bouqin pour toi il y a dix ans.",
+          "Et je le lis souvent."
+        ],
+        "incorrect": [
+          "J'ai fait ce bouqin pour toi il y a dix ans.",
+          "Et je la lis souvent."
+        ]
+      },
+      {
+        "semi-correct": [
+          "J'ai fait cette carte pour toi il y a dix ans.",
+          "Et je la lis souvent."
+        ],
+        "incorrect": [
+          "J'ai fait cette carte pour toi il y a dix ans.",
+          "Et je le lis souvent."
+        ]
+      },
+      {
+        "semi-correct": [
+          "J'ai fait cette collection pour toi il y a dix ans.",
+          "Et je la lis souvent."
+        ],
+        "incorrect": [
+          "J'ai fait cette collection pour toi il y a dix ans.",
+          "Et je le lis souvent."
+        ]
+      }
+    ]
+  },
+  "44": {
+    "inspired by": [
+      "That was just my next-door neighbor practicing his trumpet.",
+      "It's actually kind of beautiful if you listen to it."
+    ],
+    "src": [
+      "That's the new bush the neighbour's just planted.",
+      "It's actually not too bad if you don't look too closely."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Ça, c'est le nouvel arbuste que le voisin vient de planter.",
+          "En fait il n'est pas si mal si tu ne regardes pas de trop près."
+        ],
+        "incorrect": [
+          "Ça, c'est le nouvel arbuste que le voisin vient de planter.",
+          "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
+        ]
+      },
+      {
+        "correct": [
+          "Ça, c'est le nouveau buisson que le voisin vient de planter.",
+          "En fait il n'est pas si mal si tu ne regardes pas de trop près."
+        ],
+        "incorrect": [
+          "Ça, c'est le nouveau buisson que le voisin vient de planter.",
+          "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ça, c'est la nouvelle plante que le voisin vient de planter.",
+          "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
+        ],
+        "incorrect": [
+          "Ça, c'est la nouvelle plante que le voisin vient de planter.",
+          "En fait il n'est pas si mal si tu ne regardes pas de trop près."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Ça, c'est la nouvelle herbe que le voisin vient de planter.",
+          "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
+        ],
+        "incorrect": [
+          "Ça, c'est la nouvelle herbe que le voisin vient de planter.",
+          "En fait il n'est pas si mal si tu ne regardes pas de trop près."
+        ]
+      }
+    ]
+  },
+  "45": {
+    "inspired by": [
+      "I have learned new tricks.",
+      "Who'd you learn them from?"
+    ],
+    "src": [
+      "I have learnt some news ways of handling him.",
+      "Where did you learn them?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "J'ai appris de nouvelles façons de le gérer",
+          "Tu les ai apprises où ?"
+        ],
+        "incorrect": [
+          "J'ai appris de nouvelles façons de le gérer",
+          "Tu les ai appris où ?"
+        ]
+      },
+      {
+        "correct": [
+          "J'ai appris de nouvelles manières de le gérer",
+          "Tu les ai apprises où ?"
+        ],
+        "incorrect": [
+          "J'ai appris de nouvelles manières de le gérer",
+          "Tu les ai appris où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "J'ai appris de nouveaux modèles pour le gérer",
+          "Tu les ai appris où ?"
+        ],
+        "incorrect": [
+          "J'ai appris de nouveaux modèles pour le gérer",
+          "Tu les ai apprises où ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "J'ai appris de nouveaux pièges pour le gérer",
+          "Tu les ai appris où ?"
+        ],
+        "incorrect": [
+          "J'ai appris de nouveaux pièges pour le gérer",
+          "Tu les ai apprises où ?"
+        ]
+      }
+    ]
+  },
+  "46": {
+    "inspired by": [
+      "They're the enemy.",
+      "You certainly got plenty of reason to hate them."
+    ],
+    "src": [
+      "The teachers are the enemy",
+      "They definitely didn't give you any reason to like them."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Les enseignants sont l'ennemi.",
+          "Ils ne t'ont certainement pas donné de raison de les aimer."
+        ],
+        "incorrect": [
+          "Les enseignants sont l'ennemi.",
+          "Elles ne t'ont certainement pas donné de raison de les aimer."
+        ]
+      },
+      {
+        "correct": [
+          "Les enseignantes sont l'ennemi.",
+          "Elles ne t'ont certainement pas donné de raison de les aimer."
+        ],
+        "incorrect": [
+          "Les enseignantes sont l'ennemi.",
+          "Ils ne t'ont certainement pas donné de raison de les aimer."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les directeurs sont l'ennemi.",
+          "Ils ne t'ont certainement pas donné de raison de les aimer."
+        ],
+        "incorrect": [
+          "Les directeurs sont l'ennemi.",
+          "Elles ne t'ont certainement pas donné de raison de les aimer."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Les directrices sont l'ennemi.",
+          "Elles ne t'ont certainement pas donné de raison de les aimer."
+        ],
+        "incorrect": [
+          "Les directrices sont l'ennemi.",
+          "Ils ne t'ont certainement pas donné de raison de les aimer."
+        ]
+      }
+    ]
+  },
+  "47": {
+    "inspired by": [
+      "Well, honey, I-I was talking with Oscar and Lana, and...",
+      "Oh, God, forget them."
+    ],
+    "src": [
+      "Well, I was talking to the twins...",
+      "Oh, I'd already forgotten them."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Du coup, je parlais aux jumeaux...",
+          "Ô, je les avais déjà oubliés."
+        ],
+        "incorrect": [
+          "Du coup, je parlais aux jumeaux...",
+          "Ô, je les avais déjà oubliées."
+        ]
+      },
+      {
+        "correct": [
+          "Du coup, je parlais aux jumelles...",
+          "Ô, je les avais déjà oubliées."
+        ],
+        "incorrect": [
+          "Du coup, je parlais aux jumelles...",
+          "Ô, je les avais déjà oubliés."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Du coup, je parlais aux filles...",
+          "Ô, je les avais déjà oubliées."
+        ],
+        "incorrect": [
+          "Du coup, je parlais aux filles...",
+          "Ô, je les avais déjà oubliés."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Du coup, je parlais aux garçons...",
+          "Ô, je les avais déjà oubliés."
+        ],
+        "incorrect": [
+          "Du coup, je parlais aux garçons...",
+          "Ô, je les avais déjà oubliées."
+        ]
+      }
+    ]
+  },
+  "48": {
+    "inspired by": [
+      "I've broken my leg.",
+      "You broke it now?"
+    ],
+    "src": [
+      "I've broken my leg.",
+      "You mean you broke it just now ?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Je me suis cassé la jambe.",
+          "Tu veux dire que tu viens de te la casser à l'instant ?"
+        ],
+        "incorrect": [
+          "Je me suis cassé la jambe.",
+          "Tu veux dire que tu viens de te le casser à l'instant ?"
+        ]
+      },
+      {
+        "correct": [
+          "Je me suis cassé le tibia.",
+          "Tu veux dire que tu viens de te le casser à l'instant ?"
+        ],
+        "incorrect": [
+          "Je me suis cassé le tibia.",
+          "Tu veux dire que tu viens de te la casser à l'instant ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je me suis cassé la patte .",
+          "Tu veux dire que tu viens de te la casser à l'instant ?"
+        ],
+        "incorrect": [
+          "Je me suis cassé la patte .",
+          "Tu veux dire que tu viens de te le casser à l'instant ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je me suis cassé le bras .",
+          "Tu veux dire que tu viens de te le casser à l'instant ?"
+        ],
+        "incorrect": [
+          "Je me suis cassé le bras .",
+          "Tu veux dire que tu viens de te la casser à l'instant ?"
+        ]
+      }
+    ]
+  },
+  "49": {
+    "inspired by": [
+      "Several of these articles",
+      "How did they come into your possession?"
+    ],
+    "src": [
+      "Several of these objects...",
+      "How did you you get them?"
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Plusieurs de ces objets...",
+          "Comment les avez-vous obtenus ?"
+        ],
+        "incorrect": [
+          "Plusieurs de ces objets...",
+          "Comment les avez-vous obtenues ?"
+        ]
+      },
+      {
+        "correct": [
+          "Plusieurs de ces choses...",
+          "Comment les avez-vous obtenues ?"
+        ],
+        "incorrect": [
+          "Plusieurs de ces choses...",
+          "Comment les avez-vous obtenus ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Plusieurs de ces sujets...",
+          "Comment les avez-vous obtenus ?"
+        ],
+        "incorrect": [
+          "Plusieurs de ces sujets...",
+          "Comment les avez-vous obtenues ?"
+        ]
+      },
+      {
+        "semi-correct": [
+          "Plusieurs de ces œuvres...",
+          "Comment les avez-vous obtenues ?"
+        ],
+        "incorrect": [
+          "Plusieurs de ces œuvres...",
+          "Comment les avez-vous obtenus ?"
+        ]
+      }
+    ]
+  },
+  "50": {
+    "inspired by": [
+      "You told me to steer clear of murky waters.",
+      "Well, sometimes they come to me."
+    ],
+    "src": [
+      "I told me to avoid any problems.",
+      "Well, sometimes they find me."
+    ],
+    "trg": [
+      {
+        "correct": [
+          "Je t'ai dit d'éviter les problèmes.",
+          "Bah, parfois c'est eux qui me trouvent."
+        ],
+        "incorrect": [
+          "Je t'ai dit d'éviter les problèmes.",
+          "Bah, parfois c'est elles qui me trouvent."
+        ]
+      },
+      {
+        "correct": [
+          "Je t'ai dit d'éviter les difficultés.",
+          "Bah, parfois c'est elles qui me trouvent."
+        ],
+        "incorrect": [
+          "Je t'ai dit d'éviter les difficultés.",
+          "Bah, parfois c'est eux qui me trouvent."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je t'ai dit d'éviter les mésaventures.",
+          "Bah, parfois c'est elles qui me trouvent."
+        ],
+        "incorrect": [
+          "Je t'ai dit d'éviter les mésaventures.",
+          "Bah, parfois c'est eux qui me trouvent."
+        ]
+      },
+      {
+        "semi-correct": [
+          "Je t'ai dit d'éviter les incidents.",
+          "Bah, parfois c'est eux qui me trouvent."
+        ],
+        "incorrect": [
+          "Je t'ai dit d'éviter les incidents.",
+          "Bah, parfois c'est elles qui me trouvent."
+        ]
+      }
+    ]
+  }
+}
