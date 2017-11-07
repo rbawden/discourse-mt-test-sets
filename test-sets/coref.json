@@ -57,7 +57,7 @@
       "Who knows what the hell they thought?"
     ],
     "src": [
-      "The people who did this is really despicable.",
+      "The people who did this are really despicable.",
       "I know, how could they leave the room in this state?"
     ],
     "trg": [
@@ -428,41 +428,41 @@
       {
         "correct": [
           "Que penses-tu d'un sandwich ?",
-          "J'en ai qu'un, mais on pourrait le partager..."
+          "Je n'en ai qu'un, mais on pourrait le partager..."
         ],
         "incorrect": [
           "Que penses-tu d'un sandwich ?",
-          "J'en ai qu'un, mais on pourrait la partager..."
+          "Je n'en ai qu'une, mais on pourrait la partager..."
         ]
       },
       {
         "correct": [
           "Que penses-tu d'une baguette ?",
-          "J'en ai qu'un, mais on pourrait la partager..."
+          "Je n'en ai qu'une, mais on pourrait la partager..."
         ],
         "incorrect": [
           "Que penses-tu d'une baguette ?",
-          "J'en ai qu'un, mais on pourrait le partager..."
+          "Je n'en ai qu'un, mais on pourrait le partager..."
         ]
       },
       {
         "semi-correct": [
           "Que penses-tu d'une galette ?",
-          "J'en ai qu'un, mais on pourrait la partager..."
+          "Je n'en ai qu'une, mais on pourrait la partager..."
         ],
         "incorrect": [
           "Que penses-tu d'une galette ?",
-          "J'en ai qu'un, mais on pourrait le partager..."
+          "Je n'en ai qu'un, mais on pourrait le partager..."
         ]
       },
       {
         "semi-correct": [
           "Que penses-tu d'un biscuit ?",
-          "J'en ai qu'un, mais on pourrait le partager..."
+          "Je n'en ai qu'un, mais on pourrait le partager..."
         ],
         "incorrect": [
           "Que penses-tu d'un biscuit ?",
-          "J'en ai qu'un, mais on pourrait la partager..."
+          "Je n'en ai qu'une, mais on pourrait la partager..."
         ]
       }
     ]
@@ -967,11 +967,11 @@
       },
       {
         "semi-correct": [
-          "Mes proches m'envoient du gâteau toutes les semaines.",
+          "Mes tantes m'envoient du gâteau toutes les semaines.",
           "Ô, les tiennes aussi !"
         ],
         "incorrect": [
-          "Mes proches m'envoient du gâteau toutes les semaines.",
+          "Mes tantes m'envoient du gâteau toutes les semaines.",
           "Ô, les tiens aussi !"
         ]
       },
@@ -1000,11 +1000,11 @@
       {
         "correct": [
           "Nous ne pouvons pas informer les médias de l'existence des photos.",
-          "Elles adoreraient les avoir."
+          "Ils adoreraient les avoir."
         ],
         "incorrect": [
           "Nous ne pouvons pas informer les médias de l'existence des photos.",
-          "Ils adoreraient les avoir."
+          "Elles adoreraient les avoir."
         ]
       },
       {
@@ -1029,12 +1029,12 @@
       },
       {
         "semi-correct": [
-          "Nous ne pouvons pas informer les hommes de l'existence des photos.",
-          "Ils adoreraient les avoir."
+          "Nous ne pouvons pas informer les autorités de l'existence des photos.",
+          "Elles adoreraient les avoir."
         ],
         "incorrect": [
-          "Nous ne pouvons pas informer les hommes de l'existence des photos.",
-          "Elles adoreraient les avoir."
+          "Nous ne pouvons pas informer les autorités de l'existence des photos.",
+          "Ils adoreraient les avoir."
         ]
       }
     ]
@@ -1487,11 +1487,11 @@
       },
       {
         "semi-correct": [
-          "Qui t'a appris comment tenir une sabre ?",
+          "Qui t'a appris comment tenir une épée ?",
           "Tu ne la tiens pas juste comme ça."
         ],
         "incorrect": [
-          "Qui t'a appris comment tenir une sabre ?",
+          "Qui t'a appris comment tenir une épée ?",
           "Tu ne le tiens pas juste comme ça."
         ]
       },
@@ -1883,41 +1883,41 @@
     "trg": [
       {
         "correct": [
-          "Juste des pommes de terre",
+          "Juste des pommes de terre ?",
           "Elles doivent d'abord être cuites."
         ],
         "incorrect": [
-          "Juste des pommes de terre",
+          "Juste des pommes de terre ?",
           "Ils doivent d'abord être cuits."
         ]
       },
       {
         "correct": [
-          "Juste des patates",
+          "Juste des patates ?",
           "Elles doivent d'abord être cuites."
         ],
         "incorrect": [
-          "Juste des patates",
+          "Juste des patates ?",
           "Ils doivent d'abord être cuits."
         ]
       },
       {
         "semi-correct": [
-          "Juste des navets",
+          "Juste des navets ?",
           "Ils doivent d'abord être cuits."
         ],
         "incorrect": [
-          "Juste des navets",
+          "Juste des navets ?",
           "Elles doivent d'abord être cuites."
         ]
       },
       {
         "semi-correct": [
-          "Juste des oignons",
+          "Juste des oignons ?",
           "Ils doivent d'abord être cuits."
         ],
         "incorrect": [
-          "Juste des oignons",
+          "Juste des oignons ?",
           "Elles doivent d'abord être cuites."
         ]
       }
@@ -2553,7 +2553,7 @@
       "Well, sometimes they come to me."
     ],
     "src": [
-      "I told me to avoid any problems.",
+      "I told you to avoid any problems.",
       "Well, sometimes they find me."
     ],
     "trg": [
