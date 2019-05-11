@@ -12,6 +12,9 @@ There are two separate test sets:
 1) Anaphora test set, containing examples whereby an anaphoric reference can only be translated correctly into French if its antecedent (situated in the previous sentence) is correctly retrieved.
 2) Lexical choice test set, containing examples other than anaphora where word choice is determined by a choice in the previous sentence. These word choices can concern lexical disambiguation (e.g. 'mole' meaning a spy, a skin blemish or the animal) or lexical cohesion phenomena, such as repetition of a specific item where a synonym would not be appropriate.
 
+The test sets are encoded in [json format](https://json.org/)
+
+
 ## An example: Use of context for disambiguation
 
 The sets are designed to test the models’ ability to exploit previous source and/or target sentences. Each example consists of a current source sentence in English and its translation in French. The source sentence contains a word or phrase that is ambiguous with respect to its translation in French, and the only way of knowing the correct translation is by looking at the context of the previous sentence (either the source sentence or the target sentence or both).
@@ -37,6 +40,24 @@ the first translation is correct in the first context and incorrect in the secon
 The test sets can be used to evaluate machine translation models: if models provide scores for competing translations, given the preceding context, the model's ability to exploit context can be judged on its ability to correctly discriminate between a correct translation given the context and an incorrect one. 
 
 A model does better if it provides a better score for a correct translation in its correct context and does worse if it provides a better score for a translation in its incorrect context. The test sets are balanced such that each translation appears the same number of times in a correct context as an incorrect one, such that a non-contextual baseline model would achieve 50% accuracy on the test sets.
+
+## Citation
+
+If you use this test set, please cite
+```
+@inproceedings{bawden-etal-2018-evaluating,
+    title = "Evaluating Discourse Phenomena in Neural Machine Translation",
+    author = "Bawden, Rachel and Sennrich, Rico and Birch, Alexandra and Haddow, Barry",
+    booktitle = {{Proceedings of the 2018 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)}},
+    month = jun,
+    year = "2018",
+    address = "New Orleans, Louisiana",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N18-1118",
+    doi = "10.18653/v1/N18-1118",
+    pages = "1304--1313"
+}
+```
 
 
 
