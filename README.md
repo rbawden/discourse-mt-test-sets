@@ -42,7 +42,7 @@ The test sets can be used to evaluate machine translation models: if models prov
 A model does better if it provides a better score for a correct translation in its correct context and does worse if it provides a better score for a translation in its incorrect context. The test sets are balanced such that each translation appears the same number of times in a correct context as an incorrect one, such that a non-contextual baseline model would achieve 50% accuracy on the test sets.
 
 1. Extract sentences from .json files (previous context in separate file from current sentence):<br>
-   `python3 json2rawtext.py anaphora.json anaphora OUTPUT_DIR`
+   `python3 json2rawtext.py anaphora.json anaphora OUTPUT_DIR`<br>
    `python3 json2rawtext.py lexical-choice.json lexical-choice OUTPUT_DIR`
 
 2. Preprocess files using appropriate preprocessing for your model
