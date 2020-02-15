@@ -54,7 +54,7 @@ A model does better if it provides a better score for a correct translation in i
    `python3 scripts/evaluate.py anaphora.json anaphora SCORE_FILE` <br>
    `python3 scripts/evaluate.py lexical-choice.json lexical_choice SCORE_FILE`
 
-## Citation
+## Acknowledgments
 
 If you use this test set, please cite
 ```
@@ -71,6 +71,10 @@ If you use this test set, please cite
     pages = "1304--1313"
 }
 ```
+
+## Licence
+
+The test sets are distributed under a CC BY-NC-SA 4.0 licence.
 
 
 
