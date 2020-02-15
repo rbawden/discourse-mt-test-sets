@@ -14,6 +14,7 @@ There are two separate test sets:
 
 The test sets are encoded in [json format](https://json.org/)
 
+The lexical choice test set has been translated into Czech and extended by Josef Jon. Check out this test set [here](https://github.com/cepin19/discourse-test-set).
 
 ## An example: Use of context for disambiguation
 
