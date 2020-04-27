@@ -23,7 +23,7 @@ def has_regex_tuple(regex_pair, diffs):
 
 
 
-def scores2analysis_lexical_choice(score_file, testjson):
+def scores2analysis_lexical_choice(score_file, testjson, maximise=False):
     tfp = open_file(score_file)
     test = json.load(open(testjson))
     
@@ -63,7 +63,8 @@ def scores2analysis_lexical_choice(score_file, testjson):
             score_incorrect=float(tfp.readline().strip())
 
             # lower is better, compare the scores
-            if score_correct < score_incorrect:
+            if (maximise and score_correct > score_incorrect) or \
+               (not maximise and score_correct < score_incorrect):
                 analysis["numcorrect"]+=1
                 numexamplescorrect+=1
             else:
@@ -71,7 +72,8 @@ def scores2analysis_lexical_choice(score_file, testjson):
 
             # separate by type of phenomenon
             if type_coh is not None:
-                if score_correct < score_incorrect:
+                if (maximise and score_correct > score_incorrect) or \
+                   (not maximise and score_correct < score_incorrect):
                     analysis[type_coh+"-numcorrect"]+=1
                 else:
                     analysis[type_coh+"-numincorrect"]+=1
@@ -113,13 +115,8 @@ def analyse_lexical_choice(analysis):
     print("Total precision = " + str(analysis["numcorrect"]) + '/' + str(total) + \
           " = " + str(analysis["numcorrect"] / float(total)) + "\n")
 
-    #print("\t".join([str(analysis["numcorrect"]),
-    #                 str(len(analysis["whole_examples_correct"])),
-    #                 str(analysis["repet-numcorrect"]),
-    #                 str(analysis["disambig-numcorrect"])]))
     
-    
-def scores2analysis_anaphora(score_file, testjson):
+def scores2analysis_anaphora(score_file, testjson, maximise=False):
     tfp = open_file(score_file)
     test = json.load(open(testjson))
 
@@ -167,10 +164,6 @@ def scores2analysis_anaphora(score_file, testjson):
             # what gender and number?
             gennum = t["type"]
 
-
-            #if gennum == "f.pl" and exampletype=="semi-correct":
-            #    print(t[exampletype])
-            #    input()
             
             # get correct and incorrect translations and their scores
             correct = t[exampletype]
@@ -180,7 +173,8 @@ def scores2analysis_anaphora(score_file, testjson):
 
             
             # compare raw scores and mark as correct or incorrect
-            if score_correct < score_incorrect:
+            if (maximise and score_correct > score_incorrect) or \
+               (not maximise and score_correct < score_incorrect):
                 analysis["numcorrect"][exampletype] +=1
                 num_correct += 1
             else:
@@ -188,7 +182,8 @@ def scores2analysis_anaphora(score_file, testjson):
                 num_incorrect +=1
 
             # (in)correct for that example type
-            if score_correct < score_incorrect:
+            if (maximise and score_correct > score_incorrect) or \
+               (not maximise and score_correct < score_incorrect):
                 analysis["pronouns"]["numcorrect"][exampletype] +=1
                 analysis["pronouns"][gennum]["numcorrect"][exampletype] +=1
             else:
@@ -197,10 +192,6 @@ def scores2analysis_anaphora(score_file, testjson):
 
             
 
-        # for baseline, should be 2
-        #if num_incorrect!=2:
-        #    print(str(num_incorrect) + " = examples incorrect")
-        #    print(example)
 
         if num_incorrect==0:
             analysis["whole_examples"]["all_correct"].append(example)
@@ -277,6 +268,8 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("json_test_set_file")
     parser.add_argument("type", choices=["anaphora", "lexical_choice"])
+    parser.add_argument('--maximise', default=False, action='store_true',
+                        help='higher scores are better')
     parser.add_argument("scorefile")
     args = parser.parse_args()
 
@@ -284,10 +277,10 @@ if __name__=="__main__":
 
 
     if args.type=="anaphora":
-        analysis = scores2analysis_anaphora(args.scorefile, args.json_test_set_file)
+        analysis = scores2analysis_anaphora(args.scorefile, args.json_test_set_file, args.maximise)
         analyse_anaphora(analysis)
     else:
-        analysis = scores2analysis_lexical_choice(args.scorefile, args.json_test_set_file)
+        analysis = scores2analysis_lexical_choice(args.scorefile, args.json_test_set_file, args.maximise)
         analyse_lexical_choice(analysis)
 
 
