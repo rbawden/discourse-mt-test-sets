@@ -8,7 +8,7 @@ The test sets, for English-to-French translation can be found in this repository
 
 ## News
 
-- 14/07/2021 - v2 of the dataset is out. This version corrects a slight imbalance in the pronoun types of the anaphora set
+- 14/07/2021 - v2 of the dataset is out. This version corrects a slight imbalance in the pronoun types of the anaphora set (example #40 has been modified to correct this)
 
 ## Overview of the test sets
 
