@@ -291,44 +291,44 @@
     "trg": [
       {
         "correct": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
         "incorrect": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
 	  "type": "m.pl"
       },
       {
         "correct": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
         "incorrect": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
 	  "type": "f.pl"
       },
       {
         "semi-correct": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
         "incorrect": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
 	  "type": "m.pl"
       },
       {
         "semi-correct": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
         "incorrect": [
-          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?",
+          "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
 	  "type": "f.pl"
@@ -2189,28 +2189,28 @@
       "You don't make pictures. You draw them."
     ],
     "src": [
-      "Did you create these pictures?",
-      "I drew them, yes."
+      "Did you create these little statues?",
+      "I made them, yes."
     ],
     "trg": [
       {
         "correct": [
-          "Est-ce que c'est toi qui a créé ces dessins ?",
-          "Je les ai faits, oui."
-        ],
-        "incorrect": [
-          "Est-ce que c'est toi qui a créé ces dessins ?",
+          "Est-ce que c'est toi qui a créé ces statuettes ?",
           "Je les ai faites, oui."
         ],
-	  "type": "m.pl"
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces statuettes ?",
+          "Je les ai faits, oui."
+        ],
+	  "type": "f.pl"
       },
       {
         "correct": [
-          "Est-ce que c'est toi qui a créé ces images ?",
+          "Est-ce que c'est toi qui a créé ces figurines ?",
           "Je les ai faites, oui."
         ],
         "incorrect": [
-          "Est-ce que c'est toi qui a créé ces images ?",
+          "Est-ce que c'est toi qui a créé ces figurines ?",
           "Je les ai faits, oui."
         ],
 	  "type": "f.pl"
@@ -2228,14 +2228,14 @@
       },
       {
         "semi-correct": [
-          "Est-ce que c'est toi qui a créé ces photos ?",
-          "Je les ai faites, oui."
-        ],
-        "incorrect": [
-          "Est-ce que c'est toi qui a créé ces photos ?",
+          "Est-ce que c'est toi qui a créé ces œuvres d'art ?",
           "Je les ai faits, oui."
         ],
-	  "type": "f.pl"
+        "incorrect": [
+          "Est-ce que c'est toi qui a créé ces œuvres d'art ?",
+          "Je les ai faites, oui."
+        ],
+	  "type": "m.pl"
       }
     ]
   },

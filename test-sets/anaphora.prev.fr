@@ -38,14 +38,14 @@ Mais comment tu sais que la femme ne finira pas comme toutes les autres ?
 Mais comment tu sais que la femme ne finira pas comme toutes les autres ?
 Mais comment tu sais que la fille ne finira pas comme toutes les autres ?
 Mais comment tu sais que la fille ne finira pas comme toutes les autres ?
-Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?
-Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin?
+Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin ?
+Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin ?
 Ô je déteste les mouches. Regarde, il y en a une autre !
 Ô je déteste les mouches. Regarde, il y en a une autre !
 Ô je déteste les moucherons. Regarde, un autre !
@@ -310,14 +310,14 @@ Est-ce que je devrais laver le bol?
 Est-ce que je devrais laver le bol?
 Est-ce que je devrais laver le plateau?
 Est-ce que je devrais laver le plateau?
-Est-ce que c'est toi qui a créé ces dessins ?
-Est-ce que c'est toi qui a créé ces dessins ?
-Est-ce que c'est toi qui a créé ces images ?
-Est-ce que c'est toi qui a créé ces images ?
+Est-ce que c'est toi qui a créé ces statuettes ?
+Est-ce que c'est toi qui a créé ces statuettes ?
+Est-ce que c'est toi qui a créé ces figurines ?
+Est-ce que c'est toi qui a créé ces figurines ?
 Est-ce que c'est toi qui a créé ces tableaux ?
 Est-ce que c'est toi qui a créé ces tableaux ?
-Est-ce que c'est toi qui a créé ces photos ?
-Est-ce que c'est toi qui a créé ces photos ?
+Est-ce que c'est toi qui a créé ces œuvres d'art ?
+Est-ce que c'est toi qui a créé ces œuvres d'art ?
 Un patient m'a donné ces babioles.
 Un patient m'a donné ces babioles.
 Un patient m'a donné ces bibelots.
