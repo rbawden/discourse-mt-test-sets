@@ -1,4 +1,4 @@
-# Contrastive test sets for the evaluation of discourse in machine translation (v2)
+# DiscEvalMT: Contrastive test sets for the evaluation of discourse in machine translation (v2)
 
 cf. [Evaluating Discourse Phenomena in Neural Machine Translation](https://www.aclweb.org/anthology/N18-1118)
 
