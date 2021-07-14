@@ -1,10 +1,14 @@
-# Contrastive test sets for the evaluation of discourse in machine translation
+# Contrastive test sets for the evaluation of discourse in machine translation (v2)
 
 cf. [Evaluating Discourse Phenomena in Neural Machine Translation](https://www.aclweb.org/anthology/N18-1118)
 
 For machine translation to tackle discourse phenomena, models must have access to extra-sentential linguistic context. There has been recent interest in modelling context in neural machine translation, but models have been principally evaluated with standard automatic metrics, poorly adapted to evaluating discourse phenomena. The aim of our article "Evaluating Discourse Phenomena in Neural Machine Translation" was to provide an alternative form of evaluation, specifically targeting discourse phenomena and the need for context beyond the level of the sentence.
 
 The test sets, for English-to-French translation can be found in this repository. They comprise hand-crafted examples that are inspired by similar examples in the parallel corpus OpenSubtitles2016 (in terms of vocabulary usage, style and syntactic formulation).
+
+## News
+
+- 14/07/2021 - v2 of the dataset is out. This version corrects a slight imbalance in the pronoun types of the anaphora set
 
 ## Overview of the test sets
 
