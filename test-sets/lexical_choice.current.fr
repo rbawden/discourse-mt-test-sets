@@ -19,8 +19,8 @@ Vous appelez ça un dispositif ?
 Vous appelez ça un dispositif ?
 Vous appelez ça un appareil ?
 Il va falloir enlever ce grain de beauté.
-Il va falloir se débarasser de cette taupe.
-Il va falloir se débarasser de cette taupe.
+Il va falloir se débarrasser de cette taupe.
+Il va falloir se débarrasser de cette taupe.
 Il va falloir enlever ce grain de beauté.
 J'ai trouvé une correspondance !
 J'ai trouvé une allumette !
@@ -150,10 +150,10 @@ Il doit y avoir un traître dans le bureau.
 Il doit y avoir un rat dans le bureau.
 Il doit y avoir un rat dans le bureau.
 Il doit y avoir un traître dans le bureau.
-Ma poitrine est assez lourde...
+J'ai du mal à respirer...
 Mon coffre est assez lourd...
 Mon coffre est assez lourd...
-Ma poitrine est assez lourde...
+J'ai du mal à respirer...
 Personne n'osera toucher le dossier.
 Personne ne s'approchera de la valise.
 Personne ne s'approchera de la valise.
@@ -267,8 +267,8 @@ Il doit y avoir un trou dans la citerne quelque part.
 Il doit y avoir un trou dans la citerne quelque part.
 Il doit y avoir un trou dans l'aquarium quelque part.
 On va devoir oublier le poker alors.
-On va devoir faire sans le tison alors.
-On va devoir faire sans le tison alors.
+On va devoir faire sans le tisonnier alors.
+On va devoir faire sans le tisonnier alors.
 On va devoir oublier le poker alors.
 Mais on est chez toi ici.
 Mais c'est ta place ici.
